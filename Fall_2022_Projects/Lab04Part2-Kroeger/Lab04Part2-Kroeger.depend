@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665411546 source:c:\users\ethan\desktop\class\fall2022\c\lab04part2-kroeger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

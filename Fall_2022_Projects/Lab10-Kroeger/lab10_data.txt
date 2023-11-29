@@ -1,0 +1,6 @@
+titan 1220 1234 8
+warlock 1112 1078 3
+hunter 1052 1089 4
+kayde 1228 1256 9
+ikora 1288 1209 8
+zavala 1045 1287 2

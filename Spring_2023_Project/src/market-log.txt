@@ -1,0 +1,2001 @@
+Start of log file. Seed: 1680644221
+Day 1: 
+S&P500 - Price: 100.705001     Price change: 0.705001% 
+Day 2: 
+S&P500 - Price: 101.819007     Price change: 1.106207% 
+Day 3: 
+S&P500 - Price: 103.898825     Price change: 2.042662% 
+Day 4: 
+S&P500 - Price: 104.764097     Price change: 0.832802% 
+Day 5: 
+S&P500 - Price: 104.927831     Price change: 0.156289% 
+Day 6: 
+S&P500 - Price: 104.813364     Price change: -0.109092% 
+Day 7: 
+S&P500 - Price: 105.715629     Price change: 0.860830% 
+Day 8: 
+S&P500 - Price: 105.611627     Price change: -0.098379% 
+Day 9: 
+S&P500 - Price: 107.199303     Price change: 1.503316% 
+Day 10: 
+S&P500 - Price: 108.614817     Price change: 1.320450% 
+Day 11: 
+S&P500 - Price: 108.849733     Price change: 0.216283% 
+Day 12: 
+S&P500 - Price: 111.173395     Price change: 2.134743% 
+Day 13: 
+S&P500 - Price: 113.694360     Price change: 2.267598% 
+Day 14: 
+S&P500 - Price: 115.522122     Price change: 1.607610% 
+Day 15: 
+S&P500 - Price: 117.538290     Price change: 1.745265% 
+Day 16: 
+S&P500 - Price: 118.451122     Price change: 0.776626% 
+Day 17: 
+S&P500 - Price: 118.510094     Price change: 0.049785% 
+Day 18: 
+S&P500 - Price: 119.986629     Price change: 1.245915% 
+Day 19: 
+S&P500 - Price: 121.794332     Price change: 1.506587% 
+Day 20: 
+S&P500 - Price: 122.140249     Price change: 0.284017% 
+Day 21: 
+S&P500 - Price: 123.265780     Price change: 0.921507% 
+Day 22: 
+S&P500 - Price: 125.813282     Price change: 2.066674% 
+Day 23: 
+S&P500 - Price: 127.923125     Price change: 1.676964% 
+Day 24: 
+S&P500 - Price: 127.911868     Price change: -0.008801% 
+Day 25: 
+S&P500 - Price: 128.713823     Price change: 0.626959% 
+Day 26: 
+S&P500 - Price: 130.434844     Price change: 1.337091% 
+Day 27: 
+S&P500 - Price: 131.509464     Price change: 0.823874% 
+Day 28: 
+S&P500 - Price: 132.343330     Price change: 0.634073% 
+Day 29: 
+S&P500 - Price: 132.451419     Price change: 0.081674% 
+Day 30: 
+S&P500 - Price: 133.094617     Price change: 0.485611% 
+Day 31: 
+S&P500 - Price: 134.203622     Price change: 0.833245% 
+Day 32: 
+S&P500 - Price: 134.501883     Price change: 0.222245% 
+Day 33: 
+S&P500 - Price: 135.620947     Price change: 0.832006% 
+Day 34: 
+S&P500 - Price: 136.977383     Price change: 1.000167% 
+Day 35: 
+S&P500 - Price: 138.666037     Price change: 1.232798% 
+Day 36: 
+S&P500 - Price: 140.438116     Price change: 1.277948% 
+Day 37: 
+S&P500 - Price: 142.125520     Price change: 1.201528% 
+Day 38: 
+S&P500 - Price: 144.509599     Price change: 1.677446% 
+Day 39: 
+S&P500 - Price: 146.351968     Price change: 1.274912% 
+Day 40: 
+S&P500 - Price: 147.889516     Price change: 1.050582% 
+Day 41: 
+S&P500 - Price: 151.371548     Price change: 2.354483% 
+Day 42: 
+S&P500 - Price: 151.386221     Price change: 0.009693% 
+Day 43: 
+S&P500 - Price: 153.121461     Price change: 1.146233% 
+Day 44: 
+S&P500 - Price: 152.997931     Price change: -0.080674% 
+Day 45: 
+S&P500 - Price: 155.081644     Price change: 1.361922% 
+Day 46: 
+S&P500 - Price: 157.087460     Price change: 1.293393% 
+Day 47: 
+S&P500 - Price: 158.433998     Price change: 0.857190% 
+Day 48: 
+S&P500 - Price: 160.035497     Price change: 1.010830% 
+Day 49: 
+S&P500 - Price: 161.825856     Price change: 1.118726% 
+Day 50: 
+S&P500 - Price: 163.876439     Price change: 1.267154% 
+Day 51: 
+S&P500 - Price: 168.212009     Price change: 2.645633% 
+Day 52: 
+S&P500 - Price: 168.927490     Price change: 0.425345% 
+Day 53: 
+S&P500 - Price: 169.835123     Price change: 0.537291% 
+Day 54: 
+S&P500 - Price: 169.543144     Price change: -0.171919% 
+Day 55: 
+S&P500 - Price: 170.920668     Price change: 0.812492% 
+Day 56: 
+S&P500 - Price: 171.880492     Price change: 0.561561% 
+Day 57: 
+S&P500 - Price: 173.897772     Price change: 1.173653% 
+Day 58: 
+S&P500 - Price: 176.694125     Price change: 1.608044% 
+Day 59: 
+S&P500 - Price: 179.573091     Price change: 1.629350% 
+Day 60: 
+S&P500 - Price: 181.612686     Price change: 1.135802% 
+Day 61: 
+S&P500 - Price: 182.621849     Price change: 0.555668% 
+Day 62: 
+S&P500 - Price: 185.322998     Price change: 1.479094% 
+Day 63: 
+S&P500 - Price: 186.663896     Price change: 0.723547% 
+Day 64: 
+S&P500 - Price: 189.723816     Price change: 1.639267% 
+Day 65: 
+S&P500 - Price: 192.861017     Price change: 1.653562% 
+Day 66: 
+S&P500 - Price: 195.512698     Price change: 1.374918% 
+Day 67: 
+S&P500 - Price: 198.834888     Price change: 1.699219% 
+Day 68: 
+S&P500 - Price: 200.312923     Price change: 0.743348% 
+Day 69: 
+S&P500 - Price: 201.725864     Price change: 0.705367% 
+Day 70: 
+S&P500 - Price: 202.773155     Price change: 0.519166% 
+Day 71: 
+S&P500 - Price: 202.715265     Price change: -0.028549% 
+Day 72: 
+S&P500 - Price: 206.321918     Price change: 1.779172% 
+Day 73: 
+S&P500 - Price: 207.214761     Price change: 0.432743% 
+Day 74: 
+S&P500 - Price: 208.358969     Price change: 0.552184% 
+Day 75: 
+S&P500 - Price: 209.871544     Price change: 0.725947% 
+Day 76: 
+S&P500 - Price: 212.652800     Price change: 1.325218% 
+Day 77: 
+S&P500 - Price: 216.536497     Price change: 1.826309% 
+Day 78: 
+S&P500 - Price: 221.639769     Price change: 2.356772% 
+Day 79: 
+S&P500 - Price: 223.199789     Price change: 0.703854% 
+Day 80: 
+S&P500 - Price: 226.022937     Price change: 1.264852% 
+Day 81: 
+S&P500 - Price: 226.913496     Price change: 0.394013% 
+Day 82: 
+S&P500 - Price: 233.068707     Price change: 2.712580% 
+Day 83: 
+S&P500 - Price: 235.669356     Price change: 1.115829% 
+Day 84: 
+S&P500 - Price: 237.660933     Price change: 0.845073% 
+Day 85: 
+S&P500 - Price: 241.984132     Price change: 1.819062% 
+Day 86: 
+S&P500 - Price: 242.626437     Price change: 0.265433% 
+Day 87: 
+S&P500 - Price: 242.792014     Price change: 0.068243% 
+Day 88: 
+S&P500 - Price: 246.330237     Price change: 1.457306% 
+Day 89: 
+S&P500 - Price: 250.706622     Price change: 1.776633% 
+Day 90: 
+S&P500 - Price: 255.370216     Price change: 1.860180% 
+Day 91: 
+S&P500 - Price: 259.263742     Price change: 1.524659% 
+Day 92: 
+S&P500 - Price: 262.701387     Price change: 1.325926% 
+Day 93: 
+S&P500 - Price: 264.534285     Price change: 0.697712% 
+Day 94: 
+S&P500 - Price: 266.940041     Price change: 0.909431% 
+Day 95: 
+S&P500 - Price: 267.531636     Price change: 0.221621% 
+Day 96: 
+S&P500 - Price: 270.715694     Price change: 1.190161% 
+Day 97: 
+S&P500 - Price: 273.078413     Price change: 0.872768% 
+Day 98: 
+S&P500 - Price: 276.087761     Price change: 1.102009% 
+Day 99: 
+S&P500 - Price: 276.650114     Price change: 0.203687% 
+Day 100: 
+S&P500 - Price: 278.562309     Price change: 0.691196% 
+Day 101: 
+S&P500 - Price: 281.747334     Price change: 1.143380% 
+Day 102: 
+S&P500 - Price: 283.148442     Price change: 0.497292% 
+Day 103: 
+S&P500 - Price: 283.361795     Price change: 0.075350% 
+Day 104: 
+S&P500 - Price: 286.929291     Price change: 1.258990% 
+Day 105: 
+S&P500 - Price: 288.537279     Price change: 0.560413% 
+Day 106: 
+S&P500 - Price: 293.309088     Price change: 1.653793% 
+Day 107: 
+S&P500 - Price: 293.972391     Price change: 0.226145% 
+Day 108: 
+S&P500 - Price: 295.320068     Price change: 0.458437% 
+Day 109: 
+S&P500 - Price: 295.552802     Price change: 0.078807% 
+Day 110: 
+S&P500 - Price: 296.827357     Price change: 0.431245% 
+Day 111: 
+S&P500 - Price: 299.116461     Price change: 0.771190% 
+Day 112: 
+S&P500 - Price: 300.314172     Price change: 0.400416% 
+Day 113: 
+S&P500 - Price: 302.783336     Price change: 0.822193% 
+Day 114: 
+S&P500 - Price: 302.318645     Price change: -0.153473% 
+Day 115: 
+S&P500 - Price: 305.261865     Price change: 0.973549% 
+Day 116: 
+S&P500 - Price: 310.023875     Price change: 1.559975% 
+Day 117: 
+S&P500 - Price: 312.088750     Price change: 0.666037% 
+Day 118: 
+S&P500 - Price: 315.357790     Price change: 1.047471% 
+Day 119: 
+S&P500 - Price: 317.265453     Price change: 0.604920% 
+Day 120: 
+S&P500 - Price: 318.510774     Price change: 0.392517% 
+Day 121: 
+S&P500 - Price: 320.413306     Price change: 0.597321% 
+Day 122: 
+S&P500 - Price: 322.443208     Price change: 0.633526% 
+Day 123: 
+S&P500 - Price: 327.702934     Price change: 1.631210% 
+Day 124: 
+S&P500 - Price: 331.473425     Price change: 1.150582% 
+Day 125: 
+S&P500 - Price: 334.027763     Price change: 0.770601% 
+Day 126: 
+S&P500 - Price: 339.839951     Price change: 1.740031% 
+Day 127: 
+S&P500 - Price: 338.552145     Price change: -0.378945% 
+Day 128: 
+S&P500 - Price: 342.374268     Price change: 1.128961% 
+Day 129: 
+S&P500 - Price: 343.221948     Price change: 0.247589% 
+Day 130: 
+S&P500 - Price: 347.471436     Price change: 1.238116% 
+Day 131: 
+S&P500 - Price: 350.401846     Price change: 0.843353% 
+Day 132: 
+S&P500 - Price: 351.478720     Price change: 0.307325% 
+Day 133: 
+S&P500 - Price: 356.968454     Price change: 1.561897% 
+Day 134: 
+S&P500 - Price: 360.890170     Price change: 1.098617% 
+Day 135: 
+S&P500 - Price: 362.032422     Price change: 0.316509% 
+Day 136: 
+S&P500 - Price: 367.131589     Price change: 1.408483% 
+Day 137: 
+S&P500 - Price: 371.082520     Price change: 1.076162% 
+Day 138: 
+S&P500 - Price: 373.891553     Price change: 0.756983% 
+Day 139: 
+S&P500 - Price: 377.211658     Price change: 0.887986% 
+Day 140: 
+S&P500 - Price: 380.733139     Price change: 0.933556% 
+Day 141: 
+S&P500 - Price: 388.034869     Price change: 1.917808% 
+Day 142: 
+S&P500 - Price: 394.381082     Price change: 1.635475% 
+Day 143: 
+S&P500 - Price: 399.342621     Price change: 1.258057% 
+Day 144: 
+S&P500 - Price: 404.442191     Price change: 1.276991% 
+Day 145: 
+S&P500 - Price: 408.324631     Price change: 0.959949% 
+Day 146: 
+S&P500 - Price: 416.359320     Price change: 1.967721% 
+Day 147: 
+S&P500 - Price: 420.333337     Price change: 0.954468% 
+Day 148: 
+S&P500 - Price: 428.305142     Price change: 1.896544% 
+Day 149: 
+S&P500 - Price: 438.179672     Price change: 2.305489% 
+Day 150: 
+S&P500 - Price: 444.680225     Price change: 1.483536% 
+Day 151: 
+S&P500 - Price: 448.891003     Price change: 0.946923% 
+Day 152: 
+S&P500 - Price: 446.409732     Price change: -0.552756% 
+Day 153: 
+S&P500 - Price: 449.504129     Price change: 0.693174% 
+Day 154: 
+S&P500 - Price: 451.019974     Price change: 0.337226% 
+Day 155: 
+S&P500 - Price: 458.377814     Price change: 1.631378% 
+Day 156: 
+S&P500 - Price: 463.515021     Price change: 1.120736% 
+Day 157: 
+S&P500 - Price: 466.571228     Price change: 0.659355% 
+Day 158: 
+S&P500 - Price: 472.064667     Price change: 1.177406% 
+Day 159: 
+S&P500 - Price: 477.202603     Price change: 1.088397% 
+Day 160: 
+S&P500 - Price: 476.936566     Price change: -0.055749% 
+Day 161: 
+S&P500 - Price: 477.303906     Price change: 0.077021% 
+Day 162: 
+S&P500 - Price: 480.503448     Price change: 0.670336% 
+Day 163: 
+S&P500 - Price: 487.118085     Price change: 1.376605% 
+Day 164: 
+S&P500 - Price: 491.460825     Price change: 0.891517% 
+Day 165: 
+S&P500 - Price: 499.096878     Price change: 1.553746% 
+Day 166: 
+S&P500 - Price: 504.332339     Price change: 1.048987% 
+Day 167: 
+S&P500 - Price: 510.717859     Price change: 1.266133% 
+Day 168: 
+S&P500 - Price: 514.531049     Price change: 0.746633% 
+Day 169: 
+S&P500 - Price: 516.912036     Price change: 0.462749% 
+Day 170: 
+S&P500 - Price: 519.723633     Price change: 0.543922% 
+Day 171: 
+S&P500 - Price: 526.693060     Price change: 1.340987% 
+Day 172: 
+S&P500 - Price: 529.234604     Price change: 0.482547% 
+Day 173: 
+S&P500 - Price: 533.585794     Price change: 0.822167% 
+Day 174: 
+S&P500 - Price: 541.774753     Price change: 1.534703% 
+Day 175: 
+S&P500 - Price: 549.467667     Price change: 1.419947% 
+Day 176: 
+S&P500 - Price: 554.143402     Price change: 0.850957% 
+Day 177: 
+S&P500 - Price: 563.664624     Price change: 1.718187% 
+Day 178: 
+S&P500 - Price: 567.680106     Price change: 0.712388% 
+Day 179: 
+S&P500 - Price: 568.280923     Price change: 0.105837% 
+Day 180: 
+S&P500 - Price: 573.130914     Price change: 0.853450% 
+Day 181: 
+S&P500 - Price: 582.588492     Price change: 1.650160% 
+Day 182: 
+S&P500 - Price: 586.362885     Price change: 0.647866% 
+Day 183: 
+S&P500 - Price: 587.316580     Price change: 0.162646% 
+Day 184: 
+S&P500 - Price: 590.841281     Price change: 0.600136% 
+Day 185: 
+S&P500 - Price: 592.443311     Price change: 0.271144% 
+Day 186: 
+S&P500 - Price: 597.682819     Price change: 0.884390% 
+Day 187: 
+S&P500 - Price: 606.077933     Price change: 1.404610% 
+Day 188: 
+S&P500 - Price: 611.626904     Price change: 0.915554% 
+Day 189: 
+S&P500 - Price: 612.310889     Price change: 0.111830% 
+Day 190: 
+S&P500 - Price: 618.557126     Price change: 1.020109% 
+Day 191: 
+S&P500 - Price: 622.671857     Price change: 0.665214% 
+Day 192: 
+S&P500 - Price: 630.733081     Price change: 1.294618% 
+Day 193: 
+S&P500 - Price: 639.144757     Price change: 1.333635% 
+Day 194: 
+S&P500 - Price: 639.863416     Price change: 0.112441% 
+Day 195: 
+S&P500 - Price: 646.212241     Price change: 0.992216% 
+Day 196: 
+S&P500 - Price: 648.317245     Price change: 0.325745% 
+Day 197: 
+S&P500 - Price: 655.275894     Price change: 1.073340% 
+Day 198: 
+S&P500 - Price: 661.526843     Price change: 0.953942% 
+Day 199: 
+S&P500 - Price: 667.964774     Price change: 0.973193% 
+Day 200: 
+S&P500 - Price: 670.872012     Price change: 0.435238% 
+Day 201: 
+S&P500 - Price: 677.972159     Price change: 1.058346% 
+Day 202: 
+S&P500 - Price: 681.945105     Price change: 0.586004% 
+Day 203: 
+S&P500 - Price: 689.827261     Price change: 1.155834% 
+Day 204: 
+S&P500 - Price: 695.989777     Price change: 0.893342% 
+Day 205: 
+S&P500 - Price: 710.382147     Price change: 2.067900% 
+Day 206: 
+S&P500 - Price: 718.672067     Price change: 1.166966% 
+Day 207: 
+S&P500 - Price: 724.779602     Price change: 0.849836% 
+Day 208: 
+S&P500 - Price: 726.602048     Price change: 0.251448% 
+Day 209: 
+S&P500 - Price: 728.962881     Price change: 0.324914% 
+Day 210: 
+S&P500 - Price: 736.256784     Price change: 1.000586% 
+Day 211: 
+S&P500 - Price: 745.287646     Price change: 1.226591% 
+Day 212: 
+S&P500 - Price: 751.266010     Price change: 0.802155% 
+Day 213: 
+S&P500 - Price: 756.018246     Price change: 0.632564% 
+Day 214: 
+S&P500 - Price: 763.081631     Price change: 0.934288% 
+Day 215: 
+S&P500 - Price: 777.414645     Price change: 1.878307% 
+Day 216: 
+S&P500 - Price: 778.477191     Price change: 0.136677% 
+Day 217: 
+S&P500 - Price: 783.344177     Price change: 0.625193% 
+Day 218: 
+S&P500 - Price: 790.624649     Price change: 0.929409% 
+Day 219: 
+S&P500 - Price: 797.173737     Price change: 0.828343% 
+Day 220: 
+S&P500 - Price: 802.763333     Price change: 0.701177% 
+Day 221: 
+S&P500 - Price: 805.235715     Price change: 0.307984% 
+Day 222: 
+S&P500 - Price: 811.345453     Price change: 0.758752% 
+Day 223: 
+S&P500 - Price: 818.786023     Price change: 0.917066% 
+Day 224: 
+S&P500 - Price: 827.330225     Price change: 1.043521% 
+Day 225: 
+S&P500 - Price: 834.519464     Price change: 0.868969% 
+Day 226: 
+S&P500 - Price: 844.872998     Price change: 1.240658% 
+Day 227: 
+S&P500 - Price: 856.915643     Price change: 1.425379% 
+Day 228: 
+S&P500 - Price: 865.313037     Price change: 0.979956% 
+Day 229: 
+S&P500 - Price: 878.672754     Price change: 1.543917% 
+Day 230: 
+S&P500 - Price: 883.851575     Price change: 0.589391% 
+Day 231: 
+S&P500 - Price: 883.741794     Price change: -0.012421% 
+Day 232: 
+S&P500 - Price: 893.228006     Price change: 1.073414% 
+Day 233: 
+S&P500 - Price: 896.820587     Price change: 0.402202% 
+Day 234: 
+S&P500 - Price: 901.043655     Price change: 0.470893% 
+Day 235: 
+S&P500 - Price: 909.799225     Price change: 0.971714% 
+Day 236: 
+S&P500 - Price: 913.887552     Price change: 0.449366% 
+Day 237: 
+S&P500 - Price: 923.660016     Price change: 1.069329% 
+Day 238: 
+S&P500 - Price: 928.978091     Price change: 0.575761% 
+Day 239: 
+S&P500 - Price: 948.144531     Price change: 2.063175% 
+Day 240: 
+S&P500 - Price: 945.946262     Price change: -0.231850% 
+Day 241: 
+S&P500 - Price: 955.766855     Price change: 1.038177% 
+Day 242: 
+S&P500 - Price: 961.389108     Price change: 0.588245% 
+Day 243: 
+S&P500 - Price: 980.302664     Price change: 1.967315% 
+Day 244: 
+S&P500 - Price: 999.334540     Price change: 1.941429% 
+Day 245: 
+S&P500 - Price: 1013.698254     Price change: 1.437328% 
+Day 246: 
+S&P500 - Price: 1013.693506     Price change: -0.000468% 
+Day 247: 
+S&P500 - Price: 1017.899738     Price change: 0.414941% 
+Day 248: 
+S&P500 - Price: 1036.310147     Price change: 1.808666% 
+Day 249: 
+S&P500 - Price: 1043.351776     Price change: 0.679491% 
+Day 250: 
+S&P500 - Price: 1063.244214     Price change: 1.906590% 
+Day 251: 
+S&P500 - Price: 1073.922653     Price change: 1.004326% 
+Day 252: 
+S&P500 - Price: 1081.595004     Price change: 0.714423% 
+Day 253: 
+S&P500 - Price: 1078.102386     Price change: -0.322914% 
+Day 254: 
+S&P500 - Price: 1099.333331     Price change: 1.969288% 
+Day 255: 
+S&P500 - Price: 1114.123730     Price change: 1.345397% 
+Day 256: 
+S&P500 - Price: 1128.136987     Price change: 1.257783% 
+Day 257: 
+S&P500 - Price: 1144.760522     Price change: 1.473539% 
+Day 258: 
+S&P500 - Price: 1157.041315     Price change: 1.072783% 
+Day 259: 
+S&P500 - Price: 1165.467853     Price change: 0.728283% 
+Day 260: 
+S&P500 - Price: 1178.639948     Price change: 1.130198% 
+Day 261: 
+S&P500 - Price: 1182.867944     Price change: 0.358718% 
+Day 262: 
+S&P500 - Price: 1197.897003     Price change: 1.270561% 
+Day 263: 
+S&P500 - Price: 1200.155267     Price change: 0.188519% 
+Day 264: 
+S&P500 - Price: 1214.965094     Price change: 1.233993% 
+Day 265: 
+S&P500 - Price: 1217.078693     Price change: 0.173964% 
+Day 266: 
+S&P500 - Price: 1214.804199     Price change: -0.186881% 
+Day 267: 
+S&P500 - Price: 1223.470142     Price change: 0.713361% 
+Day 268: 
+S&P500 - Price: 1228.447974     Price change: 0.406862% 
+Day 269: 
+S&P500 - Price: 1240.462885     Price change: 0.978056% 
+Day 270: 
+S&P500 - Price: 1250.341199     Price change: 0.796341% 
+Day 271: 
+S&P500 - Price: 1261.968866     Price change: 0.929960% 
+Day 272: 
+S&P500 - Price: 1267.905090     Price change: 0.470394% 
+Day 273: 
+S&P500 - Price: 1271.080560     Price change: 0.250450% 
+Day 274: 
+S&P500 - Price: 1274.684790     Price change: 0.283556% 
+Day 275: 
+S&P500 - Price: 1283.785620     Price change: 0.713967% 
+Day 276: 
+S&P500 - Price: 1303.193018     Price change: 1.511732% 
+Day 277: 
+S&P500 - Price: 1313.666980     Price change: 0.803715% 
+Day 278: 
+S&P500 - Price: 1341.271265     Price change: 2.101315% 
+Day 279: 
+S&P500 - Price: 1359.935437     Price change: 1.391529% 
+Day 280: 
+S&P500 - Price: 1380.347137     Price change: 1.500932% 
+Day 281: 
+S&P500 - Price: 1394.995740     Price change: 1.061226% 
+Day 282: 
+S&P500 - Price: 1394.716565     Price change: -0.020013% 
+Day 283: 
+S&P500 - Price: 1401.930713     Price change: 0.517248% 
+Day 284: 
+S&P500 - Price: 1408.762946     Price change: 0.487345% 
+Day 285: 
+S&P500 - Price: 1413.485895     Price change: 0.335255% 
+Day 286: 
+S&P500 - Price: 1431.973157     Price change: 1.307920% 
+Day 287: 
+S&P500 - Price: 1442.599481     Price change: 0.742076% 
+Day 288: 
+S&P500 - Price: 1451.993817     Price change: 0.651209% 
+Day 289: 
+S&P500 - Price: 1474.058661     Price change: 1.519624% 
+Day 290: 
+S&P500 - Price: 1483.804578     Price change: 0.661162% 
+Day 291: 
+S&P500 - Price: 1501.980811     Price change: 1.224975% 
+Day 292: 
+S&P500 - Price: 1522.993030     Price change: 1.398967% 
+Day 293: 
+S&P500 - Price: 1531.222229     Price change: 0.540331% 
+Day 294: 
+S&P500 - Price: 1550.177954     Price change: 1.237947% 
+Day 295: 
+S&P500 - Price: 1561.332861     Price change: 0.719589% 
+Day 296: 
+S&P500 - Price: 1563.723401     Price change: 0.153109% 
+Day 297: 
+S&P500 - Price: 1568.355786     Price change: 0.296241% 
+Day 298: 
+S&P500 - Price: 1589.192456     Price change: 1.328568% 
+Day 299: 
+S&P500 - Price: 1593.250391     Price change: 0.255346% 
+Day 300: 
+S&P500 - Price: 1611.710284     Price change: 1.158631% 
+Day 301: 
+S&P500 - Price: 1618.347620     Price change: 0.411819% 
+Day 302: 
+S&P500 - Price: 1625.875641     Price change: 0.465167% 
+Day 303: 
+S&P500 - Price: 1630.993146     Price change: 0.314754% 
+Day 304: 
+S&P500 - Price: 1649.191571     Price change: 1.115788% 
+Day 305: 
+S&P500 - Price: 1659.359125     Price change: 0.616517% 
+Day 306: 
+S&P500 - Price: 1678.828442     Price change: 1.173303% 
+Day 307: 
+S&P500 - Price: 1696.264905     Price change: 1.038609% 
+Day 308: 
+S&P500 - Price: 1712.444965     Price change: 0.953864% 
+Day 309: 
+S&P500 - Price: 1720.613947     Price change: 0.477036% 
+Day 310: 
+S&P500 - Price: 1734.440204     Price change: 0.803565% 
+Day 311: 
+S&P500 - Price: 1750.675922     Price change: 0.936078% 
+Day 312: 
+S&P500 - Price: 1772.464368     Price change: 1.244573% 
+Day 313: 
+S&P500 - Price: 1768.863721     Price change: -0.203144% 
+Day 314: 
+S&P500 - Price: 1773.409534     Price change: 0.256991% 
+Day 315: 
+S&P500 - Price: 1786.150824     Price change: 0.718463% 
+Day 316: 
+S&P500 - Price: 1824.962781     Price change: 2.172938% 
+Day 317: 
+S&P500 - Price: 1837.426361     Price change: 0.682950% 
+Day 318: 
+S&P500 - Price: 1841.892883     Price change: 0.243086% 
+Day 319: 
+S&P500 - Price: 1854.977490     Price change: 0.710389% 
+Day 320: 
+S&P500 - Price: 1869.961127     Price change: 0.807753% 
+Day 321: 
+S&P500 - Price: 1890.353699     Price change: 1.090535% 
+Day 322: 
+S&P500 - Price: 1900.083020     Price change: 0.514683% 
+Day 323: 
+S&P500 - Price: 1912.762451     Price change: 0.667309% 
+Day 324: 
+S&P500 - Price: 1924.317059     Price change: 0.604080% 
+Day 325: 
+S&P500 - Price: 1944.225983     Price change: 1.034597% 
+Day 326: 
+S&P500 - Price: 1971.225281     Price change: 1.388691% 
+Day 327: 
+S&P500 - Price: 1988.204718     Price change: 0.861365% 
+Day 328: 
+S&P500 - Price: 2017.291479     Price change: 1.462966% 
+Day 329: 
+S&P500 - Price: 2028.438373     Price change: 0.552567% 
+Day 330: 
+S&P500 - Price: 2064.309039     Price change: 1.768388% 
+Day 331: 
+S&P500 - Price: 2095.654175     Price change: 1.518432% 
+Day 332: 
+S&P500 - Price: 2143.890894     Price change: 2.301750% 
+Day 333: 
+S&P500 - Price: 2155.909906     Price change: 0.560617% 
+Day 334: 
+S&P500 - Price: 2168.330359     Price change: 0.576112% 
+Day 335: 
+S&P500 - Price: 2190.808630     Price change: 1.036663% 
+Day 336: 
+S&P500 - Price: 2203.029022     Price change: 0.557803% 
+Day 337: 
+S&P500 - Price: 2218.444977     Price change: 0.699762% 
+Day 338: 
+S&P500 - Price: 2232.430420     Price change: 0.630416% 
+Day 339: 
+S&P500 - Price: 2267.230786     Price change: 1.558856% 
+Day 340: 
+S&P500 - Price: 2272.133972     Price change: 0.216263% 
+Day 341: 
+S&P500 - Price: 2303.267914     Price change: 1.370251% 
+Day 342: 
+S&P500 - Price: 2318.310645     Price change: 0.653104% 
+Day 343: 
+S&P500 - Price: 2341.659540     Price change: 1.007151% 
+Day 344: 
+S&P500 - Price: 2356.057245     Price change: 0.614850% 
+Day 345: 
+S&P500 - Price: 2356.894678     Price change: 0.035544% 
+Day 346: 
+S&P500 - Price: 2383.331427     Price change: 1.121677% 
+Day 347: 
+S&P500 - Price: 2372.989331     Price change: -0.433934% 
+Day 348: 
+S&P500 - Price: 2406.333398     Price change: 1.405150% 
+Day 349: 
+S&P500 - Price: 2422.071576     Price change: 0.654031% 
+Day 350: 
+S&P500 - Price: 2419.653027     Price change: -0.099855% 
+Day 351: 
+S&P500 - Price: 2420.234998     Price change: 0.024052% 
+Day 352: 
+S&P500 - Price: 2442.247394     Price change: 0.909515% 
+Day 353: 
+S&P500 - Price: 2461.516229     Price change: 0.788980% 
+Day 354: 
+S&P500 - Price: 2460.100769     Price change: -0.057504% 
+Day 355: 
+S&P500 - Price: 2506.192542     Price change: 1.873573% 
+Day 356: 
+S&P500 - Price: 2532.095270     Price change: 1.033549% 
+Day 357: 
+S&P500 - Price: 2555.829657     Price change: 0.937342% 
+Day 358: 
+S&P500 - Price: 2566.109119     Price change: 0.402197% 
+Day 359: 
+S&P500 - Price: 2584.873792     Price change: 0.731250% 
+Day 360: 
+S&P500 - Price: 2633.560211     Price change: 1.883512% 
+Day 361: 
+S&P500 - Price: 2661.416602     Price change: 1.057746% 
+Day 362: 
+S&P500 - Price: 2702.213013     Price change: 1.532883% 
+Day 363: 
+S&P500 - Price: 2747.573645     Price change: 1.678648% 
+Day 364: 
+S&P500 - Price: 2783.696802     Price change: 1.314729% 
+Day 365: 
+S&P500 - Price: 2825.886084     Price change: 1.515585% 
+Day 366: 
+S&P500 - Price: 2896.413257     Price change: 2.495754% 
+Day 367: 
+S&P500 - Price: 2889.356238     Price change: -0.243647% 
+Day 368: 
+S&P500 - Price: 2921.644727     Price change: 1.117498% 
+Day 369: 
+S&P500 - Price: 2934.038745     Price change: 0.424214% 
+Day 370: 
+S&P500 - Price: 2986.696106     Price change: 1.794706% 
+Day 371: 
+S&P500 - Price: 3022.609204     Price change: 1.202436% 
+Day 372: 
+S&P500 - Price: 3033.484705     Price change: 0.359805% 
+Day 373: 
+S&P500 - Price: 3051.130774     Price change: 0.581710% 
+Day 374: 
+S&P500 - Price: 3051.889954     Price change: 0.024882% 
+Day 375: 
+S&P500 - Price: 3081.072546     Price change: 0.956214% 
+Day 376: 
+S&P500 - Price: 3108.321228     Price change: 0.884389% 
+Day 377: 
+S&P500 - Price: 3170.331934     Price change: 1.994990% 
+Day 378: 
+S&P500 - Price: 3211.202197     Price change: 1.289148% 
+Day 379: 
+S&P500 - Price: 3241.603308     Price change: 0.946721% 
+Day 380: 
+S&P500 - Price: 3244.427710     Price change: 0.087130% 
+Day 381: 
+S&P500 - Price: 3241.484033     Price change: -0.090730% 
+Day 382: 
+S&P500 - Price: 3288.078174     Price change: 1.437432% 
+Day 383: 
+S&P500 - Price: 3314.391687     Price change: 0.800270% 
+Day 384: 
+S&P500 - Price: 3345.200073     Price change: 0.929534% 
+Day 385: 
+S&P500 - Price: 3377.978516     Price change: 0.979865% 
+Day 386: 
+S&P500 - Price: 3387.164587     Price change: 0.271940% 
+Day 387: 
+S&P500 - Price: 3422.159229     Price change: 1.033154% 
+Day 388: 
+S&P500 - Price: 3436.541614     Price change: 0.420272% 
+Day 389: 
+S&P500 - Price: 3472.414502     Price change: 1.043866% 
+Day 390: 
+S&P500 - Price: 3528.214185     Price change: 1.606942% 
+Day 391: 
+S&P500 - Price: 3553.118396     Price change: 0.705859% 
+Day 392: 
+S&P500 - Price: 3573.772217     Price change: 0.581287% 
+Day 393: 
+S&P500 - Price: 3592.891040     Price change: 0.534976% 
+Day 394: 
+S&P500 - Price: 3598.715967     Price change: 0.162124% 
+Day 395: 
+S&P500 - Price: 3650.506482     Price change: 1.439139% 
+Day 396: 
+S&P500 - Price: 3689.983496     Price change: 1.081412% 
+Day 397: 
+S&P500 - Price: 3732.601465     Price change: 1.154964% 
+Day 398: 
+S&P500 - Price: 3802.932324     Price change: 1.884232% 
+Day 399: 
+S&P500 - Price: 3849.537244     Price change: 1.225500% 
+Day 400: 
+S&P500 - Price: 3871.042297     Price change: 0.558640% 
+Day 401: 
+S&P500 - Price: 3893.910596     Price change: 0.590753% 
+Day 402: 
+S&P500 - Price: 3938.016138     Price change: 1.132680% 
+Day 403: 
+S&P500 - Price: 3983.441992     Price change: 1.153521% 
+Day 404: 
+S&P500 - Price: 4021.965125     Price change: 0.967082% 
+Day 405: 
+S&P500 - Price: 4074.865393     Price change: 1.315284% 
+Day 406: 
+S&P500 - Price: 4085.079956     Price change: 0.250672% 
+Day 407: 
+S&P500 - Price: 4105.758325     Price change: 0.506193% 
+Day 408: 
+S&P500 - Price: 4143.282593     Price change: 0.913942% 
+Day 409: 
+S&P500 - Price: 4140.727856     Price change: -0.061660% 
+Day 410: 
+S&P500 - Price: 4246.626062     Price change: 2.557478% 
+Day 411: 
+S&P500 - Price: 4305.816406     Price change: 1.393820% 
+Day 412: 
+S&P500 - Price: 4340.690979     Price change: 0.809941% 
+Day 413: 
+S&P500 - Price: 4400.234888     Price change: 1.371761% 
+Day 414: 
+S&P500 - Price: 4436.613501     Price change: 0.826743% 
+Day 415: 
+S&P500 - Price: 4481.856873     Price change: 1.019773% 
+Day 416: 
+S&P500 - Price: 4499.317749     Price change: 0.389590% 
+Day 417: 
+S&P500 - Price: 4528.576660     Price change: 0.650297% 
+Day 418: 
+S&P500 - Price: 4613.240100     Price change: 1.869538% 
+Day 419: 
+S&P500 - Price: 4655.686584     Price change: 0.920101% 
+Day 420: 
+S&P500 - Price: 4671.049426     Price change: 0.329980% 
+Day 421: 
+S&P500 - Price: 4725.749927     Price change: 1.171054% 
+Day 422: 
+S&P500 - Price: 4779.288586     Price change: 1.132914% 
+Day 423: 
+S&P500 - Price: 4829.657373     Price change: 1.053897% 
+Day 424: 
+S&P500 - Price: 4830.217480     Price change: 0.011597% 
+Day 425: 
+S&P500 - Price: 4888.162830     Price change: 1.199643% 
+Day 426: 
+S&P500 - Price: 4937.934546     Price change: 1.018209% 
+Day 427: 
+S&P500 - Price: 4948.447119     Price change: 0.212894% 
+Day 428: 
+S&P500 - Price: 5084.440076     Price change: 2.748195% 
+Day 429: 
+S&P500 - Price: 5111.400696     Price change: 0.530257% 
+Day 430: 
+S&P500 - Price: 5215.408057     Price change: 2.034811% 
+Day 431: 
+S&P500 - Price: 5273.412805     Price change: 1.112180% 
+Day 432: 
+S&P500 - Price: 5305.812415     Price change: 0.614395% 
+Day 433: 
+S&P500 - Price: 5360.866162     Price change: 1.037612% 
+Day 434: 
+S&P500 - Price: 5386.714954     Price change: 0.482176% 
+Day 435: 
+S&P500 - Price: 5410.225903     Price change: 0.436462% 
+Day 436: 
+S&P500 - Price: 5434.037280     Price change: 0.440118% 
+Day 437: 
+S&P500 - Price: 5465.786707     Price change: 0.584270% 
+Day 438: 
+S&P500 - Price: 5555.983008     Price change: 1.650198% 
+Day 439: 
+S&P500 - Price: 5580.222485     Price change: 0.436277% 
+Day 440: 
+S&P500 - Price: 5679.938831     Price change: 1.786960% 
+Day 441: 
+S&P500 - Price: 5777.596631     Price change: 1.719346% 
+Day 442: 
+S&P500 - Price: 5824.074121     Price change: 0.804443% 
+Day 443: 
+S&P500 - Price: 5879.548865     Price change: 0.952508% 
+Day 444: 
+S&P500 - Price: 5882.860669     Price change: 0.056328% 
+Day 445: 
+S&P500 - Price: 5941.407349     Price change: 0.995208% 
+Day 446: 
+S&P500 - Price: 6022.199951     Price change: 1.359823% 
+Day 447: 
+S&P500 - Price: 6126.223083     Price change: 1.727328% 
+Day 448: 
+S&P500 - Price: 6124.141663     Price change: -0.033976% 
+Day 449: 
+S&P500 - Price: 6283.396045     Price change: 2.600436% 
+Day 450: 
+S&P500 - Price: 6412.501270     Price change: 2.054705% 
+Day 451: 
+S&P500 - Price: 6447.911462     Price change: 0.552206% 
+Day 452: 
+S&P500 - Price: 6496.174927     Price change: 0.748513% 
+Day 453: 
+S&P500 - Price: 6633.021899     Price change: 2.106578% 
+Day 454: 
+S&P500 - Price: 6738.313208     Price change: 1.587381% 
+Day 455: 
+S&P500 - Price: 6822.304395     Price change: 1.246472% 
+Day 456: 
+S&P500 - Price: 6945.856396     Price change: 1.811001% 
+Day 457: 
+S&P500 - Price: 6967.892261     Price change: 0.317252% 
+Day 458: 
+S&P500 - Price: 7065.856812     Price change: 1.405942% 
+Day 459: 
+S&P500 - Price: 7113.554102     Price change: 0.675039% 
+Day 460: 
+S&P500 - Price: 7181.070752     Price change: 0.949127% 
+Day 461: 
+S&P500 - Price: 7266.203442     Price change: 1.185515% 
+Day 462: 
+S&P500 - Price: 7334.822217     Price change: 0.944355% 
+Day 463: 
+S&P500 - Price: 7426.303833     Price change: 1.247223% 
+Day 464: 
+S&P500 - Price: 7484.975757     Price change: 0.790056% 
+Day 465: 
+S&P500 - Price: 7549.982520     Price change: 0.868497% 
+Day 466: 
+S&P500 - Price: 7644.576367     Price change: 1.252902% 
+Day 467: 
+S&P500 - Price: 7692.477075     Price change: 0.626597% 
+Day 468: 
+S&P500 - Price: 7711.300684     Price change: 0.244702% 
+Day 469: 
+S&P500 - Price: 7829.048560     Price change: 1.526952% 
+Day 470: 
+S&P500 - Price: 7941.897339     Price change: 1.441411% 
+Day 471: 
+S&P500 - Price: 7989.097583     Price change: 0.594319% 
+Day 472: 
+S&P500 - Price: 7980.379321     Price change: -0.109127% 
+Day 473: 
+S&P500 - Price: 8035.120459     Price change: 0.685947% 
+Day 474: 
+S&P500 - Price: 8055.416504     Price change: 0.252592% 
+Day 475: 
+S&P500 - Price: 8125.727393     Price change: 0.872840% 
+Day 476: 
+S&P500 - Price: 8227.004321     Price change: 1.246374% 
+Day 477: 
+S&P500 - Price: 8319.297144     Price change: 1.121828% 
+Day 478: 
+S&P500 - Price: 8334.155908     Price change: 0.178606% 
+Day 479: 
+S&P500 - Price: 8446.778687     Price change: 1.351340% 
+Day 480: 
+S&P500 - Price: 8533.529443     Price change: 1.027028% 
+Day 481: 
+S&P500 - Price: 8631.986963     Price change: 1.153773% 
+Day 482: 
+S&P500 - Price: 8731.459253     Price change: 1.152368% 
+Day 483: 
+S&P500 - Price: 8761.501562     Price change: 0.344070% 
+Day 484: 
+S&P500 - Price: 8931.196411     Price change: 1.936824% 
+Day 485: 
+S&P500 - Price: 8988.084497     Price change: 0.636959% 
+Day 486: 
+S&P500 - Price: 9038.036963     Price change: 0.555763% 
+Day 487: 
+S&P500 - Price: 9129.057617     Price change: 1.007084% 
+Day 488: 
+S&P500 - Price: 9275.515625     Price change: 1.604306% 
+Day 489: 
+S&P500 - Price: 9392.722217     Price change: 1.263613% 
+Day 490: 
+S&P500 - Price: 9470.676489     Price change: 0.829943% 
+Day 491: 
+S&P500 - Price: 9548.876782     Price change: 0.825710% 
+Day 492: 
+S&P500 - Price: 9758.323242     Price change: 2.193415% 
+Day 493: 
+S&P500 - Price: 9884.078979     Price change: 1.288702% 
+Day 494: 
+S&P500 - Price: 9956.475977     Price change: 0.732461% 
+Day 495: 
+S&P500 - Price: 10108.586646     Price change: 1.527756% 
+Day 496: 
+S&P500 - Price: 10222.197900     Price change: 1.123908% 
+Day 497: 
+S&P500 - Price: 10290.991772     Price change: 0.672985% 
+Day 498: 
+S&P500 - Price: 10416.496069     Price change: 1.219555% 
+Day 499: 
+S&P500 - Price: 10531.217065     Price change: 1.101340% 
+Day 500: 
+S&P500 - Price: 10537.030884     Price change: 0.055206% 
+Day 501: 
+S&P500 - Price: 10650.012085     Price change: 1.072230% 
+Day 502: 
+S&P500 - Price: 10763.200098     Price change: 1.062797% 
+Day 503: 
+S&P500 - Price: 10943.401929     Price change: 1.674240% 
+Day 504: 
+S&P500 - Price: 10986.173853     Price change: 0.390847% 
+Day 505: 
+S&P500 - Price: 11104.168457     Price change: 1.074028% 
+Day 506: 
+S&P500 - Price: 11263.321460     Price change: 1.433273% 
+Day 507: 
+S&P500 - Price: 11372.123340     Price change: 0.965984% 
+Day 508: 
+S&P500 - Price: 11624.650977     Price change: 2.220585% 
+Day 509: 
+S&P500 - Price: 11677.143115     Price change: 0.451559% 
+Day 510: 
+S&P500 - Price: 11742.163770     Price change: 0.556820% 
+Day 511: 
+S&P500 - Price: 11849.668115     Price change: 0.915541% 
+Day 512: 
+S&P500 - Price: 12070.626221     Price change: 1.864678% 
+Day 513: 
+S&P500 - Price: 12135.453809     Price change: 0.537069% 
+Day 514: 
+S&P500 - Price: 12311.925146     Price change: 1.454180% 
+Day 515: 
+S&P500 - Price: 12399.409570     Price change: 0.710567% 
+Day 516: 
+S&P500 - Price: 12547.180273     Price change: 1.191756% 
+Day 517: 
+S&P500 - Price: 12641.364697     Price change: 0.750642% 
+Day 518: 
+S&P500 - Price: 12692.730225     Price change: 0.406329% 
+Day 519: 
+S&P500 - Price: 12813.156934     Price change: 0.948785% 
+Day 520: 
+S&P500 - Price: 12963.036963     Price change: 1.169735% 
+Day 521: 
+S&P500 - Price: 13027.380713     Price change: 0.496363% 
+Day 522: 
+S&P500 - Price: 13274.277393     Price change: 1.895214% 
+Day 523: 
+S&P500 - Price: 13420.517090     Price change: 1.101677% 
+Day 524: 
+S&P500 - Price: 13685.530127     Price change: 1.974686% 
+Day 525: 
+S&P500 - Price: 13781.498047     Price change: 0.701236% 
+Day 526: 
+S&P500 - Price: 14079.613281     Price change: 2.163156% 
+Day 527: 
+S&P500 - Price: 14301.093311     Price change: 1.573055% 
+Day 528: 
+S&P500 - Price: 14496.883789     Price change: 1.369060% 
+Day 529: 
+S&P500 - Price: 14682.162744     Price change: 1.278061% 
+Day 530: 
+S&P500 - Price: 14858.631006     Price change: 1.201923% 
+Day 531: 
+S&P500 - Price: 14788.086768     Price change: -0.474769% 
+Day 532: 
+S&P500 - Price: 14945.746436     Price change: 1.066126% 
+Day 533: 
+S&P500 - Price: 15058.662256     Price change: 0.755505% 
+Day 534: 
+S&P500 - Price: 15225.230078     Price change: 1.106126% 
+Day 535: 
+S&P500 - Price: 15479.326123     Price change: 1.668914% 
+Day 536: 
+S&P500 - Price: 15605.937158     Price change: 0.817936% 
+Day 537: 
+S&P500 - Price: 15707.543115     Price change: 0.651072% 
+Day 538: 
+S&P500 - Price: 16043.196973     Price change: 2.136896% 
+Day 539: 
+S&P500 - Price: 16217.641260     Price change: 1.087341% 
+Day 540: 
+S&P500 - Price: 16371.420313     Price change: 0.948221% 
+Day 541: 
+S&P500 - Price: 16702.862549     Price change: 2.024517% 
+Day 542: 
+S&P500 - Price: 16849.148193     Price change: 0.875812% 
+Day 543: 
+S&P500 - Price: 17053.995947     Price change: 1.215775% 
+Day 544: 
+S&P500 - Price: 17283.290039     Price change: 1.344518% 
+Day 545: 
+S&P500 - Price: 17429.130225     Price change: 0.843822% 
+Day 546: 
+S&P500 - Price: 17500.197852     Price change: 0.407752% 
+Day 547: 
+S&P500 - Price: 17878.883691     Price change: 2.163895% 
+Day 548: 
+S&P500 - Price: 17968.217236     Price change: 0.499660% 
+Day 549: 
+S&P500 - Price: 18147.457373     Price change: 0.997540% 
+Day 550: 
+S&P500 - Price: 18274.451270     Price change: 0.699789% 
+Day 551: 
+S&P500 - Price: 18441.898975     Price change: 0.916294% 
+Day 552: 
+S&P500 - Price: 18647.406445     Price change: 1.114351% 
+Day 553: 
+S&P500 - Price: 19000.643164     Price change: 1.894294% 
+Day 554: 
+S&P500 - Price: 19252.160205     Price change: 1.323729% 
+Day 555: 
+S&P500 - Price: 19324.979590     Price change: 0.378240% 
+Day 556: 
+S&P500 - Price: 19498.221729     Price change: 0.896467% 
+Day 557: 
+S&P500 - Price: 19702.334961     Price change: 1.046830% 
+Day 558: 
+S&P500 - Price: 19818.928857     Price change: 0.591777% 
+Day 559: 
+S&P500 - Price: 19989.875342     Price change: 0.862541% 
+Day 560: 
+S&P500 - Price: 20008.173584     Price change: 0.091538% 
+Day 561: 
+S&P500 - Price: 20490.362939     Price change: 2.409962% 
+Day 562: 
+S&P500 - Price: 20881.856934     Price change: 1.910625% 
+Day 563: 
+S&P500 - Price: 21283.409180     Price change: 1.922972% 
+Day 564: 
+S&P500 - Price: 21525.129443     Price change: 1.135722% 
+Day 565: 
+S&P500 - Price: 22023.887109     Price change: 2.317095% 
+Day 566: 
+S&P500 - Price: 22222.231592     Price change: 0.900588% 
+Day 567: 
+S&P500 - Price: 22423.264062     Price change: 0.904646% 
+Day 568: 
+S&P500 - Price: 22918.769824     Price change: 2.209784% 
+Day 569: 
+S&P500 - Price: 23027.904785     Price change: 0.476182% 
+Day 570: 
+S&P500 - Price: 23550.237402     Price change: 2.268259% 
+Day 571: 
+S&P500 - Price: 23631.412695     Price change: 0.344690% 
+Day 572: 
+S&P500 - Price: 23843.353027     Price change: 0.896858% 
+Day 573: 
+S&P500 - Price: 24189.072168     Price change: 1.449960% 
+Day 574: 
+S&P500 - Price: 24626.126270     Price change: 1.806825% 
+Day 575: 
+S&P500 - Price: 24922.922461     Price change: 1.205209% 
+Day 576: 
+S&P500 - Price: 25312.734180     Price change: 1.564069% 
+Day 577: 
+S&P500 - Price: 25355.019629     Price change: 0.167052% 
+Day 578: 
+S&P500 - Price: 25747.310742     Price change: 1.547193% 
+Day 579: 
+S&P500 - Price: 26040.069531     Price change: 1.137046% 
+Day 580: 
+S&P500 - Price: 26096.284180     Price change: 0.215877% 
+Day 581: 
+S&P500 - Price: 26522.145605     Price change: 1.631885% 
+Day 582: 
+S&P500 - Price: 26712.642090     Price change: 0.718254% 
+Day 583: 
+S&P500 - Price: 27091.831836     Price change: 1.419514% 
+Day 584: 
+S&P500 - Price: 27090.297754     Price change: -0.005663% 
+Day 585: 
+S&P500 - Price: 27090.112012     Price change: -0.000686% 
+Day 586: 
+S&P500 - Price: 27077.141211     Price change: -0.047880% 
+Day 587: 
+S&P500 - Price: 27220.102051     Price change: 0.527976% 
+Day 588: 
+S&P500 - Price: 27737.041211     Price change: 1.899108% 
+Day 589: 
+S&P500 - Price: 27834.174316     Price change: 0.350193% 
+Day 590: 
+S&P500 - Price: 28329.602539     Price change: 1.779928% 
+Day 591: 
+S&P500 - Price: 28497.230469     Price change: 0.591706% 
+Day 592: 
+S&P500 - Price: 28688.399219     Price change: 0.670833% 
+Day 593: 
+S&P500 - Price: 28866.381543     Price change: 0.620398% 
+Day 594: 
+S&P500 - Price: 29034.629004     Price change: 0.582849% 
+Day 595: 
+S&P500 - Price: 29386.377246     Price change: 1.211478% 
+Day 596: 
+S&P500 - Price: 29670.472754     Price change: 0.966759% 
+Day 597: 
+S&P500 - Price: 29838.558887     Price change: 0.566510% 
+Day 598: 
+S&P500 - Price: 29984.779102     Price change: 0.490038% 
+Day 599: 
+S&P500 - Price: 30204.229980     Price change: 0.731874% 
+Day 600: 
+S&P500 - Price: 30559.241309     Price change: 1.175370% 
+Day 601: 
+S&P500 - Price: 30982.758105     Price change: 1.385888% 
+Day 602: 
+S&P500 - Price: 31275.290332     Price change: 0.944177% 
+Day 603: 
+S&P500 - Price: 31471.760937     Price change: 0.628198% 
+Day 604: 
+S&P500 - Price: 31853.646875     Price change: 1.213424% 
+Day 605: 
+S&P500 - Price: 32265.447363     Price change: 1.292789% 
+Day 606: 
+S&P500 - Price: 32475.500000     Price change: 0.651014% 
+Day 607: 
+S&P500 - Price: 32897.762988     Price change: 1.300251% 
+Day 608: 
+S&P500 - Price: 33159.073340     Price change: 0.794310% 
+Day 609: 
+S&P500 - Price: 33179.134277     Price change: 0.060499% 
+Day 610: 
+S&P500 - Price: 33885.542188     Price change: 2.129073% 
+Day 611: 
+S&P500 - Price: 34345.509180     Price change: 1.357414% 
+Day 612: 
+S&P500 - Price: 34935.350098     Price change: 1.717374% 
+Day 613: 
+S&P500 - Price: 35273.718945     Price change: 0.968557% 
+Day 614: 
+S&P500 - Price: 35814.451367     Price change: 1.532961% 
+Day 615: 
+S&P500 - Price: 36083.272852     Price change: 0.750595% 
+Day 616: 
+S&P500 - Price: 36264.124902     Price change: 0.501207% 
+Day 617: 
+S&P500 - Price: 36407.267188     Price change: 0.394721% 
+Day 618: 
+S&P500 - Price: 37248.529395     Price change: 2.310699% 
+Day 619: 
+S&P500 - Price: 37508.330371     Price change: 0.697480% 
+Day 620: 
+S&P500 - Price: 38016.134473     Price change: 1.353844% 
+Day 621: 
+S&P500 - Price: 38415.277246     Price change: 1.049930% 
+Day 622: 
+S&P500 - Price: 39082.080469     Price change: 1.735776% 
+Day 623: 
+S&P500 - Price: 39455.584570     Price change: 0.955691% 
+Day 624: 
+S&P500 - Price: 39782.405469     Price change: 0.828326% 
+Day 625: 
+S&P500 - Price: 40258.857031     Price change: 1.197644% 
+Day 626: 
+S&P500 - Price: 40764.998535     Price change: 1.257218% 
+Day 627: 
+S&P500 - Price: 41415.106934     Price change: 1.594771% 
+Day 628: 
+S&P500 - Price: 42059.684766     Price change: 1.556383% 
+Day 629: 
+S&P500 - Price: 42321.416602     Price change: 0.622287% 
+Day 630: 
+S&P500 - Price: 42887.103418     Price change: 1.336644% 
+Day 631: 
+S&P500 - Price: 43376.760938     Price change: 1.141736% 
+Day 632: 
+S&P500 - Price: 44036.394531     Price change: 1.520707% 
+Day 633: 
+S&P500 - Price: 44288.455176     Price change: 0.572392% 
+Day 634: 
+S&P500 - Price: 44815.400586     Price change: 1.189803% 
+Day 635: 
+S&P500 - Price: 45920.106543     Price change: 2.465014% 
+Day 636: 
+S&P500 - Price: 46349.978125     Price change: 0.936129% 
+Day 637: 
+S&P500 - Price: 46652.007227     Price change: 0.651627% 
+Day 638: 
+S&P500 - Price: 47012.284570     Price change: 0.772265% 
+Day 639: 
+S&P500 - Price: 47575.869922     Price change: 1.198804% 
+Day 640: 
+S&P500 - Price: 47885.013477     Price change: 0.649791% 
+Day 641: 
+S&P500 - Price: 48266.190430     Price change: 0.796026% 
+Day 642: 
+S&P500 - Price: 48397.198730     Price change: 0.271429% 
+Day 643: 
+S&P500 - Price: 49062.995996     Price change: 1.375694% 
+Day 644: 
+S&P500 - Price: 49293.537598     Price change: 0.469889% 
+Day 645: 
+S&P500 - Price: 49702.327148     Price change: 0.829296% 
+Day 646: 
+S&P500 - Price: 49928.103809     Price change: 0.454258% 
+Day 647: 
+S&P500 - Price: 50293.141211     Price change: 0.731126% 
+Day 648: 
+S&P500 - Price: 50852.952344     Price change: 1.113096% 
+Day 649: 
+S&P500 - Price: 51348.778613     Price change: 0.975020% 
+Day 650: 
+S&P500 - Price: 51874.634180     Price change: 1.024086% 
+Day 651: 
+S&P500 - Price: 52682.763770     Price change: 1.557851% 
+Day 652: 
+S&P500 - Price: 52996.965039     Price change: 0.596402% 
+Day 653: 
+S&P500 - Price: 53602.131055     Price change: 1.141888% 
+Day 654: 
+S&P500 - Price: 54297.492578     Price change: 1.297265% 
+Day 655: 
+S&P500 - Price: 54731.351855     Price change: 0.799041% 
+Day 656: 
+S&P500 - Price: 55475.306641     Price change: 1.359285% 
+Day 657: 
+S&P500 - Price: 55828.116602     Price change: 0.635977% 
+Day 658: 
+S&P500 - Price: 56728.055664     Price change: 1.611982% 
+Day 659: 
+S&P500 - Price: 57179.899414     Price change: 0.796508% 
+Day 660: 
+S&P500 - Price: 57303.551367     Price change: 0.216251% 
+Day 661: 
+S&P500 - Price: 57608.117969     Price change: 0.531497% 
+Day 662: 
+S&P500 - Price: 58332.306250     Price change: 1.257094% 
+Day 663: 
+S&P500 - Price: 59485.933008     Price change: 1.977681% 
+Day 664: 
+S&P500 - Price: 60280.601758     Price change: 1.335894% 
+Day 665: 
+S&P500 - Price: 61319.806641     Price change: 1.723946% 
+Day 666: 
+S&P500 - Price: 61723.391602     Price change: 0.658164% 
+Day 667: 
+S&P500 - Price: 62321.115430     Price change: 0.968391% 
+Day 668: 
+S&P500 - Price: 62865.179688     Price change: 0.873001% 
+Day 669: 
+S&P500 - Price: 63310.812500     Price change: 0.708871% 
+Day 670: 
+S&P500 - Price: 63740.844336     Price change: 0.679239% 
+Day 671: 
+S&P500 - Price: 64249.046680     Price change: 0.797295% 
+Day 672: 
+S&P500 - Price: 66381.915820     Price change: 3.319690% 
+Day 673: 
+S&P500 - Price: 67288.880078     Price change: 1.366282% 
+Day 674: 
+S&P500 - Price: 68426.313086     Price change: 1.690373% 
+Day 675: 
+S&P500 - Price: 68589.351562     Price change: 0.238269% 
+Day 676: 
+S&P500 - Price: 69056.729297     Price change: 0.681414% 
+Day 677: 
+S&P500 - Price: 70391.920117     Price change: 1.933470% 
+Day 678: 
+S&P500 - Price: 71715.748633     Price change: 1.880654% 
+Day 679: 
+S&P500 - Price: 72796.996289     Price change: 1.507685% 
+Day 680: 
+S&P500 - Price: 72867.928906     Price change: 0.097439% 
+Day 681: 
+S&P500 - Price: 73149.060156     Price change: 0.385809% 
+Day 682: 
+S&P500 - Price: 73398.626953     Price change: 0.341176% 
+Day 683: 
+S&P500 - Price: 73441.745313     Price change: 0.058745% 
+Day 684: 
+S&P500 - Price: 74270.152148     Price change: 1.127978% 
+Day 685: 
+S&P500 - Price: 75315.933203     Price change: 1.408077% 
+Day 686: 
+S&P500 - Price: 76581.500195     Price change: 1.680344% 
+Day 687: 
+S&P500 - Price: 76669.389063     Price change: 0.114765% 
+Day 688: 
+S&P500 - Price: 77102.024805     Price change: 0.564287% 
+Day 689: 
+S&P500 - Price: 77678.642187     Price change: 0.747863% 
+Day 690: 
+S&P500 - Price: 78459.260938     Price change: 1.004934% 
+Day 691: 
+S&P500 - Price: 78661.283008     Price change: 0.257487% 
+Day 692: 
+S&P500 - Price: 79824.714453     Price change: 1.479039% 
+Day 693: 
+S&P500 - Price: 80515.840625     Price change: 0.865805% 
+Day 694: 
+S&P500 - Price: 81166.019141     Price change: 0.807516% 
+Day 695: 
+S&P500 - Price: 82725.940820     Price change: 1.921890% 
+Day 696: 
+S&P500 - Price: 83134.296289     Price change: 0.493624% 
+Day 697: 
+S&P500 - Price: 83554.408008     Price change: 0.505341% 
+Day 698: 
+S&P500 - Price: 84486.460352     Price change: 1.115503% 
+Day 699: 
+S&P500 - Price: 85386.645703     Price change: 1.065479% 
+Day 700: 
+S&P500 - Price: 86243.856250     Price change: 1.003916% 
+Day 701: 
+S&P500 - Price: 87376.060938     Price change: 1.312795% 
+Day 702: 
+S&P500 - Price: 88612.069336     Price change: 1.414585% 
+Day 703: 
+S&P500 - Price: 90349.900586     Price change: 1.961168% 
+Day 704: 
+S&P500 - Price: 91029.431641     Price change: 0.752110% 
+Day 705: 
+S&P500 - Price: 92248.789453     Price change: 1.339520% 
+Day 706: 
+S&P500 - Price: 94058.807227     Price change: 1.962105% 
+Day 707: 
+S&P500 - Price: 95624.708203     Price change: 1.664811% 
+Day 708: 
+S&P500 - Price: 96191.280469     Price change: 0.592496% 
+Day 709: 
+S&P500 - Price: 96876.118164     Price change: 0.711954% 
+Day 710: 
+S&P500 - Price: 97338.774414     Price change: 0.477575% 
+Day 711: 
+S&P500 - Price: 98978.136328     Price change: 1.684182% 
+Day 712: 
+S&P500 - Price: 99367.856641     Price change: 0.393744% 
+Day 713: 
+S&P500 - Price: 99431.719922     Price change: 0.064270% 
+Day 714: 
+S&P500 - Price: 100206.215625     Price change: 0.778922% 
+Day 715: 
+S&P500 - Price: 101744.641602     Price change: 1.535260% 
+Day 716: 
+S&P500 - Price: 102062.262109     Price change: 0.312174% 
+Day 717: 
+S&P500 - Price: 104135.224609     Price change: 2.031076% 
+Day 718: 
+S&P500 - Price: 105066.788672     Price change: 0.894572% 
+Day 719: 
+S&P500 - Price: 106128.323828     Price change: 1.010343% 
+Day 720: 
+S&P500 - Price: 106775.146680     Price change: 0.609472% 
+Day 721: 
+S&P500 - Price: 108525.080469     Price change: 1.638896% 
+Day 722: 
+S&P500 - Price: 109376.637500     Price change: 0.784664% 
+Day 723: 
+S&P500 - Price: 110792.326172     Price change: 1.294325% 
+Day 724: 
+S&P500 - Price: 112592.281250     Price change: 1.624621% 
+Day 725: 
+S&P500 - Price: 113183.121094     Price change: 0.524761% 
+Day 726: 
+S&P500 - Price: 114298.331250     Price change: 0.985315% 
+Day 727: 
+S&P500 - Price: 115708.693164     Price change: 1.233930% 
+Day 728: 
+S&P500 - Price: 116583.384375     Price change: 0.755943% 
+Day 729: 
+S&P500 - Price: 117227.162891     Price change: 0.552204% 
+Day 730: 
+S&P500 - Price: 119401.369531     Price change: 1.854695% 
+Day 731: 
+S&P500 - Price: 119169.388281     Price change: -0.194287% 
+Day 732: 
+S&P500 - Price: 121724.125000     Price change: 2.143786% 
+Day 733: 
+S&P500 - Price: 123970.310547     Price change: 1.845308% 
+Day 734: 
+S&P500 - Price: 125427.837500     Price change: 1.175706% 
+Day 735: 
+S&P500 - Price: 127195.223437     Price change: 1.409086% 
+Day 736: 
+S&P500 - Price: 128038.910156     Price change: 0.663301% 
+Day 737: 
+S&P500 - Price: 129082.427734     Price change: 0.815000% 
+Day 738: 
+S&P500 - Price: 131767.042578     Price change: 2.079768% 
+Day 739: 
+S&P500 - Price: 132197.781250     Price change: 0.326894% 
+Day 740: 
+S&P500 - Price: 133810.790625     Price change: 1.220149% 
+Day 741: 
+S&P500 - Price: 137397.267969     Price change: 2.680260% 
+Day 742: 
+S&P500 - Price: 138281.595312     Price change: 0.643628% 
+Day 743: 
+S&P500 - Price: 139380.206250     Price change: 0.794474% 
+Day 744: 
+S&P500 - Price: 140202.578125     Price change: 0.590021% 
+Day 745: 
+S&P500 - Price: 142847.420703     Price change: 1.886444% 
+Day 746: 
+S&P500 - Price: 145931.546875     Price change: 2.159035% 
+Day 747: 
+S&P500 - Price: 148019.342578     Price change: 1.430668% 
+Day 748: 
+S&P500 - Price: 149383.997656     Price change: 0.921944% 
+Day 749: 
+S&P500 - Price: 151015.143750     Price change: 1.091915% 
+Day 750: 
+S&P500 - Price: 152417.477734     Price change: 0.928605% 
+Day 751: 
+S&P500 - Price: 155740.275000     Price change: 2.180063% 
+Day 752: 
+S&P500 - Price: 157040.426172     Price change: 0.834820% 
+Day 753: 
+S&P500 - Price: 158629.173047     Price change: 1.011680% 
+Day 754: 
+S&P500 - Price: 160115.751172     Price change: 0.937140% 
+Day 755: 
+S&P500 - Price: 162150.792969     Price change: 1.270982% 
+Day 756: 
+S&P500 - Price: 163838.153125     Price change: 1.040612% 
+Day 757: 
+S&P500 - Price: 164935.273047     Price change: 0.669636% 
+Day 758: 
+S&P500 - Price: 165913.766016     Price change: 0.593259% 
+Day 759: 
+S&P500 - Price: 167444.717578     Price change: 0.922739% 
+Day 760: 
+S&P500 - Price: 169619.168359     Price change: 1.298608% 
+Day 761: 
+S&P500 - Price: 172892.725781     Price change: 1.929945% 
+Day 762: 
+S&P500 - Price: 175657.748438     Price change: 1.599271% 
+Day 763: 
+S&P500 - Price: 178038.208594     Price change: 1.355169% 
+Day 764: 
+S&P500 - Price: 178332.273047     Price change: 0.165169% 
+Day 765: 
+S&P500 - Price: 182419.669531     Price change: 2.292012% 
+Day 766: 
+S&P500 - Price: 184336.619141     Price change: 1.050846% 
+Day 767: 
+S&P500 - Price: 188286.198828     Price change: 2.142591% 
+Day 768: 
+S&P500 - Price: 190612.935156     Price change: 1.235744% 
+Day 769: 
+S&P500 - Price: 194507.604297     Price change: 2.043234% 
+Day 770: 
+S&P500 - Price: 195776.712109     Price change: 0.652472% 
+Day 771: 
+S&P500 - Price: 197716.625000     Price change: 0.990880% 
+Day 772: 
+S&P500 - Price: 199165.159766     Price change: 0.732632% 
+Day 773: 
+S&P500 - Price: 199753.845703     Price change: 0.295577% 
+Day 774: 
+S&P500 - Price: 202025.855859     Price change: 1.137405% 
+Day 775: 
+S&P500 - Price: 205246.444531     Price change: 1.594147% 
+Day 776: 
+S&P500 - Price: 206315.505078     Price change: 0.520867% 
+Day 777: 
+S&P500 - Price: 207207.308984     Price change: 0.432252% 
+Day 778: 
+S&P500 - Price: 208370.339453     Price change: 0.561288% 
+Day 779: 
+S&P500 - Price: 209229.057031     Price change: 0.412111% 
+Day 780: 
+S&P500 - Price: 209987.423437     Price change: 0.362457% 
+Day 781: 
+S&P500 - Price: 209674.922266     Price change: -0.148819% 
+Day 782: 
+S&P500 - Price: 212731.768750     Price change: 1.457898% 
+Day 783: 
+S&P500 - Price: 215096.244922     Price change: 1.111482% 
+Day 784: 
+S&P500 - Price: 217822.588281     Price change: 1.267499% 
+Day 785: 
+S&P500 - Price: 222007.030469     Price change: 1.921032% 
+Day 786: 
+S&P500 - Price: 224823.252344     Price change: 1.268528% 
+Day 787: 
+S&P500 - Price: 227227.836719     Price change: 1.069544% 
+Day 788: 
+S&P500 - Price: 229641.384375     Price change: 1.062171% 
+Day 789: 
+S&P500 - Price: 232506.090625     Price change: 1.247470% 
+Day 790: 
+S&P500 - Price: 236088.539062     Price change: 1.540798% 
+Day 791: 
+S&P500 - Price: 237910.015234     Price change: 0.771522% 
+Day 792: 
+S&P500 - Price: 239767.308203     Price change: 0.780670% 
+Day 793: 
+S&P500 - Price: 241366.346094     Price change: 0.666912% 
+Day 794: 
+S&P500 - Price: 240043.503516     Price change: -0.548064% 
+Day 795: 
+S&P500 - Price: 243123.401172     Price change: 1.283058% 
+Day 796: 
+S&P500 - Price: 242850.236328     Price change: -0.112356% 
+Day 797: 
+S&P500 - Price: 245030.734375     Price change: 0.897878% 
+Day 798: 
+S&P500 - Price: 246151.344531     Price change: 0.457335% 
+Day 799: 
+S&P500 - Price: 246465.350781     Price change: 0.127566% 
+Day 800: 
+S&P500 - Price: 247615.564062     Price change: 0.466684% 
+Day 801: 
+S&P500 - Price: 249608.312891     Price change: 0.804775% 
+Day 802: 
+S&P500 - Price: 252584.887109     Price change: 1.192498% 
+Day 803: 
+S&P500 - Price: 254812.433984     Price change: 0.881900% 
+Day 804: 
+S&P500 - Price: 252969.611719     Price change: -0.723207% 
+Day 805: 
+S&P500 - Price: 254705.080078     Price change: 0.686038% 
+Day 806: 
+S&P500 - Price: 256034.307031     Price change: 0.521869% 
+Day 807: 
+S&P500 - Price: 258601.589062     Price change: 1.002710% 
+Day 808: 
+S&P500 - Price: 258642.200391     Price change: 0.015704% 
+Day 809: 
+S&P500 - Price: 263203.112109     Price change: 1.763406% 
+Day 810: 
+S&P500 - Price: 262567.529297     Price change: -0.241480% 
+Day 811: 
+S&P500 - Price: 263360.586328     Price change: 0.302039% 
+Day 812: 
+S&P500 - Price: 267116.231250     Price change: 1.426047% 
+Day 813: 
+S&P500 - Price: 270517.821094     Price change: 1.273449% 
+Day 814: 
+S&P500 - Price: 272653.957422     Price change: 0.789647% 
+Day 815: 
+S&P500 - Price: 276219.101172     Price change: 1.307571% 
+Day 816: 
+S&P500 - Price: 279150.540625     Price change: 1.061273% 
+Day 817: 
+S&P500 - Price: 279854.129688     Price change: 0.252046% 
+Day 818: 
+S&P500 - Price: 286637.532031     Price change: 2.423906% 
+Day 819: 
+S&P500 - Price: 288162.122656     Price change: 0.531888% 
+Day 820: 
+S&P500 - Price: 287689.302344     Price change: -0.164081% 
+Day 821: 
+S&P500 - Price: 291636.029687     Price change: 1.371871% 
+Day 822: 
+S&P500 - Price: 293610.980469     Price change: 0.677197% 
+Day 823: 
+S&P500 - Price: 293041.713281     Price change: -0.193885% 
+Day 824: 
+S&P500 - Price: 293136.917187     Price change: 0.032488% 
+Day 825: 
+S&P500 - Price: 297953.682031     Price change: 1.643179% 
+Day 826: 
+S&P500 - Price: 301248.832813     Price change: 1.105927% 
+Day 827: 
+S&P500 - Price: 302442.053125     Price change: 0.396091% 
+Day 828: 
+S&P500 - Price: 308016.659375     Price change: 1.843198% 
+Day 829: 
+S&P500 - Price: 313907.233594     Price change: 1.912421% 
+Day 830: 
+S&P500 - Price: 320174.129688     Price change: 1.996417% 
+Day 831: 
+S&P500 - Price: 322657.658594     Price change: 0.775681% 
+Day 832: 
+S&P500 - Price: 324919.314063     Price change: 0.700946% 
+Day 833: 
+S&P500 - Price: 329351.776562     Price change: 1.364173% 
+Day 834: 
+S&P500 - Price: 331420.018750     Price change: 0.627974% 
+Day 835: 
+S&P500 - Price: 336724.200781     Price change: 1.600441% 
+Day 836: 
+S&P500 - Price: 338378.441406     Price change: 0.491275% 
+Day 837: 
+S&P500 - Price: 341191.571875     Price change: 0.831356% 
+Day 838: 
+S&P500 - Price: 345519.535938     Price change: 1.268485% 
+Day 839: 
+S&P500 - Price: 349625.585938     Price change: 1.188370% 
+Day 840: 
+S&P500 - Price: 352231.249219     Price change: 0.745272% 
+Day 841: 
+S&P500 - Price: 356381.837500     Price change: 1.178370% 
+Day 842: 
+S&P500 - Price: 359492.206250     Price change: 0.872763% 
+Day 843: 
+S&P500 - Price: 361178.232812     Price change: 0.469002% 
+Day 844: 
+S&P500 - Price: 368236.082031     Price change: 1.954118% 
+Day 845: 
+S&P500 - Price: 370247.603125     Price change: 0.546259% 
+Day 846: 
+S&P500 - Price: 371330.361719     Price change: 0.292442% 
+Day 847: 
+S&P500 - Price: 372446.621094     Price change: 0.300611% 
+Day 848: 
+S&P500 - Price: 373924.274219     Price change: 0.396742% 
+Day 849: 
+S&P500 - Price: 380853.239063     Price change: 1.853040% 
+Day 850: 
+S&P500 - Price: 385203.858594     Price change: 1.142335% 
+Day 851: 
+S&P500 - Price: 391810.762500     Price change: 1.715171% 
+Day 852: 
+S&P500 - Price: 395418.564844     Price change: 0.920802% 
+Day 853: 
+S&P500 - Price: 404388.237500     Price change: 2.268399% 
+Day 854: 
+S&P500 - Price: 407828.080469     Price change: 0.850629% 
+Day 855: 
+S&P500 - Price: 414079.263281     Price change: 1.532799% 
+Day 856: 
+S&P500 - Price: 418150.726562     Price change: 0.983257% 
+Day 857: 
+S&P500 - Price: 423855.316406     Price change: 1.364242% 
+Day 858: 
+S&P500 - Price: 428506.678125     Price change: 1.097394% 
+Day 859: 
+S&P500 - Price: 432450.068750     Price change: 0.920264% 
+Day 860: 
+S&P500 - Price: 434472.071094     Price change: 0.467569% 
+Day 861: 
+S&P500 - Price: 436561.311719     Price change: 0.480869% 
+Day 862: 
+S&P500 - Price: 439593.897656     Price change: 0.694653% 
+Day 863: 
+S&P500 - Price: 442248.095313     Price change: 0.603784% 
+Day 864: 
+S&P500 - Price: 445660.238281     Price change: 0.771545% 
+Day 865: 
+S&P500 - Price: 448788.475000     Price change: 0.701933% 
+Day 866: 
+S&P500 - Price: 455400.181250     Price change: 1.473234% 
+Day 867: 
+S&P500 - Price: 460374.758594     Price change: 1.092353% 
+Day 868: 
+S&P500 - Price: 466827.741406     Price change: 1.401680% 
+Day 869: 
+S&P500 - Price: 472801.747656     Price change: 1.279702% 
+Day 870: 
+S&P500 - Price: 475386.553906     Price change: 0.546700% 
+Day 871: 
+S&P500 - Price: 477577.105469     Price change: 0.460794% 
+Day 872: 
+S&P500 - Price: 484044.455469     Price change: 1.354200% 
+Day 873: 
+S&P500 - Price: 488469.231250     Price change: 0.914126% 
+Day 874: 
+S&P500 - Price: 494213.358594     Price change: 1.175945% 
+Day 875: 
+S&P500 - Price: 496032.630469     Price change: 0.368115% 
+Day 876: 
+S&P500 - Price: 502432.050000     Price change: 1.290121% 
+Day 877: 
+S&P500 - Price: 506096.679688     Price change: 0.729378% 
+Day 878: 
+S&P500 - Price: 512008.014844     Price change: 1.168025% 
+Day 879: 
+S&P500 - Price: 518927.994531     Price change: 1.351537% 
+Day 880: 
+S&P500 - Price: 525291.436719     Price change: 1.226267% 
+Day 881: 
+S&P500 - Price: 537099.560937     Price change: 2.247919% 
+Day 882: 
+S&P500 - Price: 539495.424219     Price change: 0.446074% 
+Day 883: 
+S&P500 - Price: 547817.022656     Price change: 1.542478% 
+Day 884: 
+S&P500 - Price: 557257.185156     Price change: 1.723233% 
+Day 885: 
+S&P500 - Price: 564678.746875     Price change: 1.331802% 
+Day 886: 
+S&P500 - Price: 564882.935156     Price change: 0.036160% 
+Day 887: 
+S&P500 - Price: 566913.504687     Price change: 0.359467% 
+Day 888: 
+S&P500 - Price: 569288.081250     Price change: 0.418860% 
+Day 889: 
+S&P500 - Price: 570716.590625     Price change: 0.250929% 
+Day 890: 
+S&P500 - Price: 576792.748437     Price change: 1.064654% 
+Day 891: 
+S&P500 - Price: 582334.565625     Price change: 0.960799% 
+Day 892: 
+S&P500 - Price: 591864.943750     Price change: 1.636581% 
+Day 893: 
+S&P500 - Price: 593040.893750     Price change: 0.198686% 
+Day 894: 
+S&P500 - Price: 602458.539062     Price change: 1.588026% 
+Day 895: 
+S&P500 - Price: 610319.732812     Price change: 1.304852% 
+Day 896: 
+S&P500 - Price: 611051.914062     Price change: 0.119967% 
+Day 897: 
+S&P500 - Price: 615716.085938     Price change: 0.763302% 
+Day 898: 
+S&P500 - Price: 618779.565625     Price change: 0.497547% 
+Day 899: 
+S&P500 - Price: 625006.898438     Price change: 1.006390% 
+Day 900: 
+S&P500 - Price: 634388.548438     Price change: 1.501047% 
+Day 901: 
+S&P500 - Price: 644858.387500     Price change: 1.650383% 
+Day 902: 
+S&P500 - Price: 657166.040625     Price change: 1.908582% 
+Day 903: 
+S&P500 - Price: 659758.304688     Price change: 0.394461% 
+Day 904: 
+S&P500 - Price: 666751.609375     Price change: 1.059980% 
+Day 905: 
+S&P500 - Price: 675572.239062     Price change: 1.322926% 
+Day 906: 
+S&P500 - Price: 684263.504687     Price change: 1.286504% 
+Day 907: 
+S&P500 - Price: 695510.912500     Price change: 1.643725% 
+Day 908: 
+S&P500 - Price: 705689.676562     Price change: 1.463495% 
+Day 909: 
+S&P500 - Price: 705526.671875     Price change: -0.023099% 
+Day 910: 
+S&P500 - Price: 717655.615625     Price change: 1.719133% 
+Day 911: 
+S&P500 - Price: 717162.596875     Price change: -0.068699% 
+Day 912: 
+S&P500 - Price: 720636.660937     Price change: 0.484418% 
+Day 913: 
+S&P500 - Price: 735129.200000     Price change: 2.011074% 
+Day 914: 
+S&P500 - Price: 739777.120313     Price change: 0.632259% 
+Day 915: 
+S&P500 - Price: 756584.207812     Price change: 2.271912% 
+Day 916: 
+S&P500 - Price: 759044.965625     Price change: 0.325246% 
+Day 917: 
+S&P500 - Price: 767268.462500     Price change: 1.083400% 
+Day 918: 
+S&P500 - Price: 779979.529687     Price change: 1.656665% 
+Day 919: 
+S&P500 - Price: 798353.590625     Price change: 2.355711% 
+Day 920: 
+S&P500 - Price: 804090.865625     Price change: 0.718638% 
+Day 921: 
+S&P500 - Price: 807317.639062     Price change: 0.401295% 
+Day 922: 
+S&P500 - Price: 820160.460938     Price change: 1.590802% 
+Day 923: 
+S&P500 - Price: 829123.023438     Price change: 1.092782% 
+Day 924: 
+S&P500 - Price: 842917.462500     Price change: 1.663739% 
+Day 925: 
+S&P500 - Price: 846073.623437     Price change: 0.374433% 
+Day 926: 
+S&P500 - Price: 857001.518750     Price change: 1.291601% 
+Day 927: 
+S&P500 - Price: 856215.095313     Price change: -0.091765% 
+Day 928: 
+S&P500 - Price: 865860.257812     Price change: 1.126488% 
+Day 929: 
+S&P500 - Price: 878789.576562     Price change: 1.493234% 
+Day 930: 
+S&P500 - Price: 886070.575000     Price change: 0.828526% 
+Day 931: 
+S&P500 - Price: 889512.345313     Price change: 0.388431% 
+Day 932: 
+S&P500 - Price: 895068.575000     Price change: 0.624638% 
+Day 933: 
+S&P500 - Price: 899534.079688     Price change: 0.498901% 
+Day 934: 
+S&P500 - Price: 908285.817187     Price change: 0.972919% 
+Day 935: 
+S&P500 - Price: 917833.715625     Price change: 1.051200% 
+Day 936: 
+S&P500 - Price: 921912.771875     Price change: 0.444422% 
+Day 937: 
+S&P500 - Price: 929039.368750     Price change: 0.773023% 
+Day 938: 
+S&P500 - Price: 937875.337500     Price change: 0.951087% 
+Day 939: 
+S&P500 - Price: 952591.235938     Price change: 1.569068% 
+Day 940: 
+S&P500 - Price: 966277.704688     Price change: 1.436762% 
+Day 941: 
+S&P500 - Price: 967065.334375     Price change: 0.081512% 
+Day 942: 
+S&P500 - Price: 975516.437500     Price change: 0.873892% 
+Day 943: 
+S&P500 - Price: 979824.554688     Price change: 0.441624% 
+Day 944: 
+S&P500 - Price: 983463.115625     Price change: 0.371348% 
+Day 945: 
+S&P500 - Price: 996013.743750     Price change: 1.276167% 
+Day 946: 
+S&P500 - Price: 996331.989062     Price change: 0.031952% 
+Day 947: 
+S&P500 - Price: 1003473.832812     Price change: 0.716814% 
+Day 948: 
+S&P500 - Price: 1013988.387500     Price change: 1.047816% 
+Day 949: 
+S&P500 - Price: 1027007.031250     Price change: 1.283905% 
+Day 950: 
+S&P500 - Price: 1042004.085938     Price change: 1.460268% 
+Day 951: 
+S&P500 - Price: 1044238.748437     Price change: 0.214458% 
+Day 952: 
+S&P500 - Price: 1058666.303125     Price change: 1.381634% 
+Day 953: 
+S&P500 - Price: 1069125.912500     Price change: 0.987999% 
+Day 954: 
+S&P500 - Price: 1079553.760938     Price change: 0.975362% 
+Day 955: 
+S&P500 - Price: 1093804.318750     Price change: 1.320042% 
+Day 956: 
+S&P500 - Price: 1105399.990625     Price change: 1.060123% 
+Day 957: 
+S&P500 - Price: 1112922.262500     Price change: 0.680502% 
+Day 958: 
+S&P500 - Price: 1132189.884375     Price change: 1.731264% 
+Day 959: 
+S&P500 - Price: 1145827.740625     Price change: 1.204556% 
+Day 960: 
+S&P500 - Price: 1155022.225000     Price change: 0.802432% 
+Day 961: 
+S&P500 - Price: 1174608.509375     Price change: 1.695750% 
+Day 962: 
+S&P500 - Price: 1181392.243750     Price change: 0.577532% 
+Day 963: 
+S&P500 - Price: 1190214.868750     Price change: 0.746799% 
+Day 964: 
+S&P500 - Price: 1199636.696875     Price change: 0.791607% 
+Day 965: 
+S&P500 - Price: 1216396.775000     Price change: 1.397096% 
+Day 966: 
+S&P500 - Price: 1224023.165625     Price change: 0.626966% 
+Day 967: 
+S&P500 - Price: 1231761.006250     Price change: 0.632165% 
+Day 968: 
+S&P500 - Price: 1256830.893750     Price change: 2.035288% 
+Day 969: 
+S&P500 - Price: 1283007.250000     Price change: 2.082727% 
+Day 970: 
+S&P500 - Price: 1296691.596875     Price change: 1.066584% 
+Day 971: 
+S&P500 - Price: 1290424.000000     Price change: -0.483353% 
+Day 972: 
+S&P500 - Price: 1321627.593750     Price change: 2.418088% 
+Day 973: 
+S&P500 - Price: 1333825.290625     Price change: 0.922930% 
+Day 974: 
+S&P500 - Price: 1341152.456250     Price change: 0.549335% 
+Day 975: 
+S&P500 - Price: 1343624.362500     Price change: 0.184312% 
+Day 976: 
+S&P500 - Price: 1351666.471875     Price change: 0.598539% 
+Day 977: 
+S&P500 - Price: 1360004.556250     Price change: 0.616874% 
+Day 978: 
+S&P500 - Price: 1368487.887500     Price change: 0.623772% 
+Day 979: 
+S&P500 - Price: 1391897.890625     Price change: 1.710647% 
+Day 980: 
+S&P500 - Price: 1403048.378125     Price change: 0.801100% 
+Day 981: 
+S&P500 - Price: 1416148.896875     Price change: 0.933718% 
+Day 982: 
+S&P500 - Price: 1419135.546875     Price change: 0.210899% 
+Day 983: 
+S&P500 - Price: 1431070.665625     Price change: 0.841013% 
+Day 984: 
+S&P500 - Price: 1441350.937500     Price change: 0.718362% 
+Day 985: 
+S&P500 - Price: 1462486.481250     Price change: 1.466370% 
+Day 986: 
+S&P500 - Price: 1465446.337500     Price change: 0.202385% 
+Day 987: 
+S&P500 - Price: 1480472.581250     Price change: 1.025370% 
+Day 988: 
+S&P500 - Price: 1484761.275000     Price change: 0.289684% 
+Day 989: 
+S&P500 - Price: 1491371.981250     Price change: 0.445237% 
+Day 990: 
+S&P500 - Price: 1504059.809375     Price change: 0.850749% 
+Day 991: 
+S&P500 - Price: 1516879.784375     Price change: 0.852358% 
+Day 992: 
+S&P500 - Price: 1519523.859375     Price change: 0.174310% 
+Day 993: 
+S&P500 - Price: 1523446.078125     Price change: 0.258122% 
+Day 994: 
+S&P500 - Price: 1525313.662500     Price change: 0.122589% 
+Day 995: 
+S&P500 - Price: 1537613.846875     Price change: 0.806404% 
+Day 996: 
+S&P500 - Price: 1546781.778125     Price change: 0.596244% 
+Day 997: 
+S&P500 - Price: 1557027.481250     Price change: 0.662388% 
+Day 998: 
+S&P500 - Price: 1561040.546875     Price change: 0.257739% 
+Day 999: 
+S&P500 - Price: 1586895.268750     Price change: 1.656249% 
+Day 1000: 
+S&P500 - Price: 1587206.068750     Price change: 0.019585% 

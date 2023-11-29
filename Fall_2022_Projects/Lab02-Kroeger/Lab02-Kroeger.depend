@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662953032 source:c:\users\ethan\desktop\class\fall2022\c\lab02-kroeger\main.cpp
+	<iostream>
+
+1663679037 source:c:\users\ethan\desktop\class\fall2022\c\lab02-kroeger\main.c
+	<stdio.h>
+	<stdlib.h>
+

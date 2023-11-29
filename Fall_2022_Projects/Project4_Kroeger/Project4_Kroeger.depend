@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1666576905 source:c:\users\ethan\desktop\class\fall2022\c\project4_kroeger\main.cpp
+	"AVLTree.h"
+	<iostream>
+	<string>
+
+1666485765 c:\users\ethan\desktop\class\fall2022\c\project4_kroeger\avltree.h
+	<string>
+	<vector>
+
+1666612248 source:c:\users\ethan\desktop\class\fall2022\c\project4_kroeger\avltree.cpp
+	<AVLTree.h>
+	<iostream>
+
+1666576903 c:\users\ethan\desktop\class\fall2022\c\project4_kroeger\include\avltree.h
+	<string>
+	<vector>
+

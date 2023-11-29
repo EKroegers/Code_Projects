@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1669777471 source:c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\main.cpp
+	<iostream>
+	<Database.h>
+	<limits>
+
+1669730467 source:c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\src\hashfunction.cpp
+
+1669773055 source:c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\src\hashtable.cpp
+	"HashTable.h"
+	"hashfunction.h"
+
+1669740224 c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\include\hashtable.h
+	<Slot.h>
+
+1669772142 c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\include\slot.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1669777604 source:c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\src\database.cpp
+	"Database.h"
+
+1669771021 c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\include\database.h
+	<HashTable.h>
+	<Record.h>
+	<vector>
+
+1669730224 c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\include\record.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1669730522 c:\users\ethan\desktop\class\fall2022\c\kroeger-project6\include\hashfunction.h
+

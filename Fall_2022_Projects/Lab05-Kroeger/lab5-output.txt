@@ -1,0 +1,5 @@
+3 and 7 added together is 10
+9 minus 3 is 6
+3 and 4 multiplied together is 12
+90 divided by 9 is 10
+9 modulo 4 is 1

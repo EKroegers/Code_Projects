@@ -1,0 +1,112 @@
+[1;32m
+	Entry 1 Exists[0m
+[1;32m
+	Name is Passed[0m (Sample Company)
+[1;32m	Base Price is Passed[0m ($100)
+[1;32m
+	Entry 2 Exists[0m
+[1;32m
+	Name is Passed[0m (Another Sample Company)
+[1;32m	Base Price is Passed[0m ($256)
+[1;32m
+	Entry 3 Exists[0m
+[1;32m
+	Name is Passed[0m (A Third Sample Company)
+[1;32m	Base Price is Passed[0m ($10)
+[1;32m
+HL1 is all good[0m
+
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m	Change[0m
+[1;32m
+HL2 is working properly[0m
+
+[1;32m	The Math Checks Out[0m
+[1;32m
+HL3 is up and running[0m
+
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m	Different[0m
+[1;32m
+HL6 is totally cool[0m
+
+[1;32m
+HL9 is working harder than I am[0m
+
+17[33m Total Tests[0m || 17[1;32m Tests Passed[0m || 0[31m Tests Failed[0m 
+File 'TestHarness.cpp'
+Lines executed:80.56% of 180
+Creating 'TestHarness.cpp.gcov'
+
+File '/usr/include/c++/9/iostream'
+No executable lines
+Removing 'iostream.gcov'
+
+File '/usr/include/c++/9/bits/stl_iterator_base_funcs.h'
+Lines executed:100.00% of 5
+Creating 'stl_iterator_base_funcs.h.gcov'
+
+File '/usr/include/c++/9/bits/stl_iterator_base_types.h'
+Lines executed:100.00% of 2
+Creating 'stl_iterator_base_types.h.gcov'
+
+File '/usr/include/c++/9/ext/type_traits.h'
+Lines executed:100.00% of 2
+Creating 'type_traits.h.gcov'
+
+File '/usr/include/c++/9/bits/basic_string.tcc'
+Lines executed:69.23% of 13
+Creating 'basic_string.tcc.gcov'
+
+File '/usr/include/c++/9/ext/new_allocator.h'
+Lines executed:0.00% of 3
+Creating 'new_allocator.h.gcov'
+
+File '/usr/include/c++/9/bits/basic_string.h'
+Lines executed:96.67% of 30
+Creating 'basic_string.h.gcov'
+
+File '/usr/include/c++/9/bits/alloc_traits.h'
+Lines executed:0.00% of 2
+Creating 'alloc_traits.h.gcov'
+
+File '/usr/include/c++/9/ext/alloc_traits.h'
+Lines executed:0.00% of 2
+Creating 'alloc_traits.h.gcov'
+
+File '/usr/include/c++/9/bits/move.h'
+Lines executed:100.00% of 2
+Creating 'move.h.gcov'
+
+File '/usr/include/c++/9/ext/string_conversions.h'
+Lines executed:100.00% of 6
+Creating 'string_conversions.h.gcov'
+
+File 'Market.cpp'
+Lines executed:94.55% of 110
+Creating 'Market.cpp.gcov'
+
+File 'headers/Market.h'
+Lines executed:100.00% of 15
+Creating 'Market.h.gcov'
+
+File '/usr/include/c++/9/bits/char_traits.h'
+Lines executed:30.00% of 10
+Creating 'char_traits.h.gcov'
+

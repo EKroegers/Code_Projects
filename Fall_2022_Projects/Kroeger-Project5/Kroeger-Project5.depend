@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668204870 source:c:\users\ethan\desktop\class\fall2022\c\kroeger-project5\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<Trie.h>
+
+1668205051 source:c:\users\ethan\desktop\class\fall2022\c\kroeger-project5\src\trie.cpp
+	"Trie.h"
+
+1668205062 c:\users\ethan\desktop\class\fall2022\c\kroeger-project5\include\trie.h
+	<vector>
+	<string>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662045077 source:c:\users\ethan\desktop\class\fall2022\c\project1-kroeger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

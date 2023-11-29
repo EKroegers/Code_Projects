@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663338730 source:c:\users\ethan\desktop\class\fall2022\c\project02-kroeger\main.cpp
+	<iostream>
+	"character.h"
+
+1663336955 source:c:\users\ethan\desktop\class\fall2022\c\project02-kroeger\src\character.cpp
+	"character.h"
+
+1663339158 c:\users\ethan\desktop\class\fall2022\c\project02-kroeger\include\character.h
+	<string>
+	<iostream>
+	<time.h>
+

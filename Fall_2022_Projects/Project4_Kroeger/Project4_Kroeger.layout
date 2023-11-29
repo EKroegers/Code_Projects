@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\AVLTree.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="161" topLine="2" />
+		</Cursor>
+		<Folding>
+			<Collapse line="27" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="62" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="AVLTree.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7879" topLine="105" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="11" />
+			<Collapse line="16" />
+			<Collapse line="88" />
+			<Collapse line="113" />
+			<Collapse line="118" />
+			<Collapse line="133" />
+			<Collapse line="138" />
+			<Collapse line="150" />
+			<Collapse line="170" />
+			<Collapse line="179" />
+			<Collapse line="188" />
+			<Collapse line="212" />
+			<Collapse line="228" />
+			<Collapse line="256" />
+			<Collapse line="283" />
+			<Collapse line="293" />
+			<Collapse line="322" />
+			<Collapse line="331" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

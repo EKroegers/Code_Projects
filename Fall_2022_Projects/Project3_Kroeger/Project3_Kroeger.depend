@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1665012567 source:c:\users\ethan\desktop\class\fall2022\c\project3_kroeger\main.cpp
+	<iostream>
+	<iomanip>
+	"sequence.h"
+	<fstream>
+
+1664889146 c:\users\ethan\desktop\class\fall2022\c\project3_kroeger\sequence.h
+	<iostream>
+	<exception>
+
+1665012747 source:c:\users\ethan\desktop\class\fall2022\c\project3_kroeger\sequence.cpp
+	"Sequence.h"
+	<exception>
+
+1665001182 source:c:\users\ethan\desktop\class\fall2022\c\project3_kroeger\main2.cpp
+	<iostream>
+	<iomanip>
+	"sequence.h"
+
