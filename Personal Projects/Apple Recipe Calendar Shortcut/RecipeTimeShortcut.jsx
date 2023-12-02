@@ -15,6 +15,12 @@ function determineCurrentSite(url)
     }
 }
 
+// Converts total time to minutes
+function timeSum(hourTime, minuteTime)
+{
+    return ((parseInt(hourTime) * 60) + parseInt(minuteTime));
+}
+
 function Kroger_ProcessRecipeBlockElement(RecipeBlock)
 {
     // RB Index 3 is total time, Child Index 1 is actual time text
@@ -43,17 +49,11 @@ function Kroger_ProcessTimeElement(timeElementText)
     }
 }
 
-// Converts total time to minutes
-function timeSum(hourTime, minuteTime)
-{
-    return ((parseInt(hourTime) * 60) + parseInt(minuteTime));
-}
-
 // Pulls the time in hours from the Skinny Foods website
 function ST_GetHourTimeFromDocument()
 {
     try { // Try to get the time in hours from named element
-        return document.querySelectorAll("span.wprm-recipe-details.wprm-recipe-details-hours.wprm-recipe-total_time.wprm-recipe-total_time-hours")[0].childNodes[0].textContent;
+        return document.querySelectorAll("span.wprm-recipe-details.wprm-recipe-details-hours.wprm-recipe-total_time.wprm-recipe-total_time-hours")[0].textContent;
     }
     catch { // if it fails, set to zero
         return "0";
@@ -64,7 +64,7 @@ function ST_GetHourTimeFromDocument()
 function ST_GetMinuteTimeFromDocument()
 {
     try { // Try to get the time in minutes from named element
-        return document.querySelectorAll("span.wprm-recipe-details.wprm-recipe-details-minutes.wprm-recipe-total_time.wprm-recipe-total_time-minutes")[0].childNodes[0].textContent;
+        return document.querySelectorAll("span.wprm-recipe-details.wprm-recipe-details-minutes.wprm-recipe-total_time.wprm-recipe-total_time-minutes")[0].textContent;
     }
     catch { // if it fails, set to zero
         return "0";
@@ -76,11 +76,11 @@ var totalTime;
 
 if (determineCurrentSite(windowURL) == "Kroger") // Kroger Website Logic
 {
-    Kroger_ProcessRecipeBlockElement(document.querySelectorAll("span.RecipeLabeledValue.block"));
+    totalTime = Kroger_ProcessRecipeBlockElement(document.querySelectorAll("span.RecipeLabeledValue.block"));
 }
 else if (determineCurrentSite(windowURL) == "ST") // SkinnyTaste Website logic
 {
-    totalTime = timeSum(ST_GetHourTimeFromDocument, ST_GetMinuteTimeFromDocument);
+    totalTime = timeSum(ST_GetHourTimeFromDocument(), ST_GetMinuteTimeFromDocument());
 }
 else // Default to one hour if something goes wrong
 {
