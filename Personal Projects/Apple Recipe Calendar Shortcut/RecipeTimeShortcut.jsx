@@ -53,7 +53,7 @@ function timeSum(hourTime, minuteTime)
 function ST_GetHourTimeFromDocument()
 {
     try { // Try to get the time in hours from named element
-        return document.getElementsByClassName("wprm-recipe-details wprm-recipe-details-hours wprm-recipe-total_time wprm-recipe-total_time-hours")[0].childNodes[0].textContent;
+        return document.querySelectorAll("span.wprm-recipe-details.wprm-recipe-details-hours.wprm-recipe-total_time.wprm-recipe-total_time-hours")[0].childNodes[0].textContent;
     }
     catch { // if it fails, set to zero
         return "0";
@@ -64,7 +64,7 @@ function ST_GetHourTimeFromDocument()
 function ST_GetMinuteTimeFromDocument()
 {
     try { // Try to get the time in minutes from named element
-        return document.getElementsByClassName("wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes")[0].childNodes[0].textContent;
+        return document.querySelectorAll("span.wprm-recipe-details.wprm-recipe-details-minutes.wprm-recipe-total_time.wprm-recipe-total_time-minutes")[0].childNodes[0].textContent;
     }
     catch { // if it fails, set to zero
         return "0";
@@ -76,7 +76,7 @@ var totalTime;
 
 if (determineCurrentSite(windowURL) == "Kroger") // Kroger Website Logic
 {
-    Kroger_ProcessRecipeBlockElement(document.getElementsByClassName("RecipeLabeledValue block"));
+    Kroger_ProcessRecipeBlockElement(document.querySelectorAll("span.RecipeLabeledValue.block"));
 }
 else if (determineCurrentSite(windowURL) == "ST") // SkinnyTaste Website logic
 {
