@@ -2,13 +2,21 @@
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
 	"name": "create-block/basic-feat-block",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"title": "Basic Feat Block",
 	"category": "widgets",
-	"description": "A Block for Feat content incuding Title, Prerequisites, Benefits, and Special fields",
+	"description": "A Block for TTRPG Feat content incuding Title, Flavor, Prerequisites, Benefits, and Special fields",
 	"example": {},
   "attributes": {
     "featTitle": {
+      "type": "string",
+      "default": ""
+    },
+    "showFlavorField": {
+      "type": "boolean",
+      "default": false
+    },
+    "featFlavor": {
       "type": "string",
       "default": ""
     },

@@ -20,8 +20,9 @@ import { useBlockProps } from '@wordpress/block-editor';
  */
 export default function save( { attributes } ) {
 	const { 
-    featTitle, 
-    featPrerequisites, 
+    featTitle,
+    showFlavorField, featFlavor,
+    featPrerequisites,
     featBenefits,
     showSpecialField, featSpecials } = attributes;
 
@@ -29,6 +30,12 @@ export default function save( { attributes } ) {
 	// is loaded from a template/pattern, return null. In this case, block
 	// rendering will be handled by the render.php file.
 	if ( ! featTitle ) {
+		return null;
+	}
+  else if ( ! showFlavorField ) {
+		return null;
+	}
+  else if ( ! featFlavor ) {
 		return null;
 	}
   else if ( ! featPrerequisites ) {
@@ -47,6 +54,9 @@ export default function save( { attributes } ) {
 	return (
     <div { ...useBlockProps.save() }>
         <h4>{featTitle}</h4>
+        { showFlavorField &&
+          <p><i>{featFlavor}</i></p>
+        }
         <p><strong>Prerequisite(s): </strong>{featPrerequisites}</p>
         <p><strong>Benefit(s): </strong>{featBenefits}</p>
         { showSpecialField &&
@@ -55,12 +65,3 @@ export default function save( { attributes } ) {
     </div>
   );
 }
-
-/**
- * Dear Future Me,
- * If you're back here wondering why your static blocks have validation errors
- * It's because the dynamic content within them changed and you stopped at the
- * "Handling dynamic content in statically rendered blocks" part of this
- * guide (https://developer.wordpress.org/block-editor/getting-started/tutorial/)
- * because you thought you didn't need it
- */

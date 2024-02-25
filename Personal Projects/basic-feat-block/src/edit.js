@@ -25,6 +25,8 @@ import { PanelBody, TextControl, TextareaControl, ToggleControl } from '@wordpre
 export default function Edit( { attributes, setAttributes } ) {
   const { 
     featTitle,
+    showFlavorField, 
+    featFlavor,
     featPrerequisites,
     featBenefits,
     showSpecialField, featSpecials} = attributes;
@@ -43,6 +45,30 @@ export default function Edit( { attributes, setAttributes } ) {
               setAttributes( { featTitle: value } )
             }
           />
+          <ToggleControl
+            checked={ !! showFlavorField }
+            label={ __(
+              'Feat has \'Flavor\' field',
+              'basic-feat-block'
+            )}
+            onChange={ () =>
+              setAttributes( {
+                showFlavorField: ! showFlavorField,
+              })
+            }
+          />
+          { showFlavorField && (
+            <TextareaControl
+              label={ __(
+                'Feat Flavor',
+                'basic-feat-block'
+              )}
+              value={ featFlavor || '' }
+              onChange={ ( value ) =>
+                setAttributes( { featFlavor: value } )
+              }
+            />
+          )}
           <TextControl
             label={ __(
               'Feat Prerequisites',
@@ -92,6 +118,9 @@ export default function Edit( { attributes, setAttributes } ) {
 
       <div { ...useBlockProps() }>
         <h4>{featTitle}</h4>
+        { showFlavorField &&
+          <p><i>{featFlavor}</i></p>
+        }
         <p><strong>Prerequisite(s): </strong>{featPrerequisites}</p>
         <p><strong>Benefit(s): </strong>{featBenefits}</p>
         { showSpecialField &&
