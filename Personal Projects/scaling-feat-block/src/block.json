@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"title": "Scaling Feat Block",
 	"category": "widgets",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "A Block for TTRPG Feat content incuding Title, Flavor, Prerequisites, a scalable number of Benefits, and Special fields",
 	"example": {},
 	"attributes": {
 		"featTitle": {
