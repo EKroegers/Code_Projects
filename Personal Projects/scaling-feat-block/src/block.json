@@ -1,0 +1,130 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "create-block/scaling-feat-block",
+	"version": "1.0.0",
+	"title": "Scaling Feat Block",
+	"category": "widgets",
+	"description": "Example block scaffolded with Create Block tool.",
+	"example": {},
+	"attributes": {
+		"featTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"showFlavorField": {
+			"type": "boolean",
+			"default": false
+		},
+		"featFlavor": {
+			"type": "string",
+			"default": ""
+		},
+		"featPrerequisites": {
+			"type": "string",
+			"default": ""
+		},
+		"featBenefit": {
+			"type": "string",
+			"default": ""
+		},
+		"featThresholdCount": {
+			"type": "number",
+			"default": 2
+		},
+		"featScaleThreshold1": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit1": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold2": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit2": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold3": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit3": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold4": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit4": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold5": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit5": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold6": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit6": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold7": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit7": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold8": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit8": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold9": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit9": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleThreshold10": {
+			"type": "string",
+			"default": ""
+		},
+		"featScaleBenefit10": {
+			"type": "string",
+			"default": ""
+		},
+		"showSpecialField": {
+			"type": "boolean",
+			"default": false
+		},
+		"featSpecials": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "scaling-feat-block",
+	"editorScript": "file:./index.js",
+	"render": "file:./render.php"
+}
